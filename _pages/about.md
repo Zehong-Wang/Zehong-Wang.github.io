@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am fortunately supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). In general, my research interest lies on machine learning and data mining, aiming to create effective, efficient, and generalizable machine learning models for graphs. Recently, I focus on enhancing model generalization via data-centric approaches. Also, I enjoy doing research in handling real-world problems, e.g., healthcare and social analysis. 
+I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). In general, my research interest lies on machine learning and data mining, aiming to create effective, efficient, and generalizable machine learning models for graphs. Recently, I focus on enhancing model generalization via data-centric approaches. Also, I enjoy doing research in handling real-world problems, e.g., healthcare and social analysis. 
 
 To Friends
 ======

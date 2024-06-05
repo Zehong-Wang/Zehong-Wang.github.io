@@ -12,7 +12,7 @@ I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engine
 To Friends
 ======
 
-I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat:) I am open to scheduling discussions at least twice a week.
+I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
 
 
 Updates

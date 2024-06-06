@@ -18,6 +18,7 @@ I thoroughly enjoy engaging in conversations with friends and colleagues. Please
 Updates
 ======
 
+* [2024.06] Server as a PC member for NeurIPS'24.
 * [2024.05] One paper is accepted by KDD'24.
 * [2024.04] One paper is accepted by IJCAI'24.
 * [2024.01] Server as a PC member for COLING'24.

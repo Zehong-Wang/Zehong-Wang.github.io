@@ -15,6 +15,10 @@ I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engine
 Updates
 ======
 
+<<<<<<< HEAD
+=======
+* [2024.06] Server as a PC member for NeurIPS'24.
+>>>>>>> parent of 68fa8c0... update
 * [2024.05] One paper is accepted by KDD'24.
 * [2024.04] One paper is accepted by IJCAI'24.
 

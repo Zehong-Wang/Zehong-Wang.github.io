@@ -9,21 +9,14 @@ redirect_from:
 
 I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). In general, my research interest lies on machine learning and data mining, aiming to create effective, efficient, and generalizable machine learning models for graphs. Recently, I focus on enhancing model generalization via data-centric approaches. Also, I enjoy doing research in handling real-world problems, e.g., healthcare and social analysis. 
 
-To Friends
-======
-
-I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
+<b>To Friends</b>: I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
 
 
 Updates
 ======
 
-* [2024.06] Server as a PC member for AAAI'25.
-* [2024.06] Server as a PC member for NeurIPS'24.
 * [2024.05] One paper is accepted by KDD'24.
 * [2024.04] One paper is accepted by IJCAI'24.
-* [2024.01] Server as a PC member for COLING'24.
-* [2023.11] Server as a PC member for AAAI'24.
 
 Selected Publications
 ======
@@ -45,13 +38,13 @@ Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachm
 - [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
 <u><b>Zehong Wang</b></u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
 
-<!-- Services
+
+Services
 ======
 
-Reviewer: TNNLS, TDSC, TBD
+Reviewer: TKDE, TDSC, TBD, TNNLS
 
-PC Member: AAAI, COLING -->
-
+PC Member: NeurIPS'24, AAAI'24,25, COLING'24,25
 
 Contact
 ======

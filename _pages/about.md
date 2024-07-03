@@ -12,15 +12,16 @@ I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engine
 <b>To Friends</b>: I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
 
 
-Updates
+News
 ======
 
-<<<<<<< HEAD
-=======
-* [2024.06] Server as a PC member for NeurIPS'24.
->>>>>>> parent of 68fa8c0... update
-* [2024.05] One paper is accepted by KDD'24.
-* [2024.04] One paper is accepted by IJCAI'24.
+* [2024.07] I will be serving as a PC member for COLING 2024.
+* [2024.06] I will be serving as a PC member for NeurIPS 2024.
+* [2024.06] I will be serving as a PC member for AAAI 2024.
+* [2024.05] One paper was accepted by KDD 2024. Congratulations to my co-authors! 
+* [2024.04] One paper was accepted by IJCAI 2024. Congratulations to my co-authors! 
+* [2023.10] I will be serving as a PC member for COLING 2023.
+* [2023.08] I will be serving as a PC member for AAAI 2023.
 
 Selected Publications
 ======
@@ -46,9 +47,9 @@ Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachm
 Services
 ======
 
-Reviewer: TKDE, TDSC, TBD, TNNLS
+Journal Reviewer: TKDE, TDSC, TBD, TNNLS
 
-PC Member: NeurIPS'24, AAAI'24,25, COLING'24,25
+Conference Reviewer/Program Committee: NeurIPS 2024, AAAI 2024, 2025, COLING 2024, 2025. 
 
 Contact
 ======

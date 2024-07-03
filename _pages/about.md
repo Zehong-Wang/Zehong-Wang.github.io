@@ -12,10 +12,9 @@ I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engine
 <b>To Friends</b>: I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
 
 
-News
+Updates
 ======
 
-* [2024.06] 
 * [2024.05] One paper is accepted by KDD'24.
 * [2024.04] One paper is accepted by IJCAI'24.
 
@@ -43,12 +42,13 @@ Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachm
 Services
 ======
 
-- Reviewer: TKDE, TDSC, TBD, TNNLS
-  
-- PC Member: NeurIPS'24, AAAI'24,25, COLING'24,25
+Reviewer: TKDE, TDSC, TBD, TNNLS
+
+PC Member: NeurIPS'24, AAAI'24,25, COLING'24,25
 
 Contact
 ======
 
 - Email: zwang43 [at] nd [dot] edu
+- Office: 247 Fitzpatrick Hall of Engineering
 - Location: University of Notre Dame, Notre Dame, IN 46565

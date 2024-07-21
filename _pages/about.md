@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). In general, my research interest lies on machine learning and data mining, aiming to create effective, efficient, and generalizable machine learning models for graphs. Recently, I focus on enhancing model generalization via data-centric approaches. Also, I enjoy doing research in handling real-world problems, e.g., healthcare and social analysis. 
 
-<b>To Friends</b>: I thoroughly enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
+<b>To Friends</b>: I enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
 
 
 News
@@ -20,6 +20,7 @@ News
 * [2024.06] I will be serving as a PC member for AAAI 2024.
 * [2024.05] One paper was accepted by KDD 2024. Congratulations to my co-authors! 
 * [2024.04] One paper was accepted by IJCAI 2024. Congratulations to my co-authors! 
+* [2024.03] Receive the Travel Award Grand from SDM'24. Thanks SDM!
 * [2023.10] I will be serving as a PC member for COLING 2023.
 * [2023.08] I will be serving as a PC member for AAAI 2023.
 
@@ -30,17 +31,16 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)]\
+- <b>[IJCAI'24]</b> Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)]\
 <u><b>Zehong Wang</b></u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
+- <b>[KDD'24]</b> Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
+Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
-- [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
-Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye. 
-
-- [TNNLS'24] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling. [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]\
+- <b>[TNNLS'24]</b> Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling. [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]\
 <u><b>Zehong Wang</b></u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, Shuang Yao, Maozu Guo.
 
-- [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
+- <b>[SDM'23]</b> Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
 <u><b>Zehong Wang</b></u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
 
 

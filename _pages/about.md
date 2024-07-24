@@ -31,17 +31,17 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- <b>[IJCAI'24]</b> Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)]\
-<u><b>Zehong Wang</b></u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
+- [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)]\
+<u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
-- <b>[KDD'24]</b> Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
-Zheyuan Zhang\*, <u><b>Zehong Wang</b></u>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+- [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
+Zheyuan Zhang\*, <u>Zehong Wang\*</u>, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
-- <b>[TNNLS'24]</b> Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling. [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]\
-<u><b>Zehong Wang</b></u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, Shuang Yao, Maozu Guo.
+- [TNNLS'24] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling. [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]\
+<u>Zehong Wang</u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, Shuang Yao, Maozu Guo.
 
-- <b>[SDM'23]</b> Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
-<u><b>Zehong Wang</b></u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
+- [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
+<u>Zehong Wang</u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
 
 
 Services

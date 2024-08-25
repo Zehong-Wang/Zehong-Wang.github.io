@@ -15,6 +15,7 @@ I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engine
 News
 ======
 
+* [2024.08] I will be serving as a PC member for ICLR 2025. 
 * [2024.07] I will be serving as a PC member for COLING 2024.
 * [2024.06] I will be serving as a PC member for NeurIPS 2024.
 * [2024.06] I will be serving as a PC member for AAAI 2024.
@@ -37,9 +38,6 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 - [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
 Zheyuan Zhang\*, <b>Zehong Wang</b>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
-- [TNNLS'24] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling. [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]\
-<b>Zehong Wang</b>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, Shuang Yao, Maozu Guo.
-
 - [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
 <b>Zehong Wang</b>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
 
@@ -49,7 +47,7 @@ Services
 
 Journal Reviewer: TKDE, TDSC, TBD, TNNLS
 
-Conference Reviewer/Program Committee: NeurIPS 2024, AAAI 2024, 2025, COLING 2024, 2025. 
+Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AAAI 2024, 2025, COLING 2024, 2025. 
 
 Contact
 ======

@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). In general, my research interest lies on machine learning and data mining, aiming to create effective, efficient, and generalizable machine learning models for graphs. Recently, I focus on enhancing model generalization via data-centric approaches. Also, I enjoy doing research in handling real-world problems, e.g., healthcare and social analysis. 
+I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies on machine learning, with the goal of developing effective, efficient, and generalizable models. Currently, my research centers on three main areas:
+
+- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907)).
+
+- **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
+
+- **Social Events**: I am passionate about applying my work to solve real-world problems, particularly in healthcare and social analysis ([KDD24](https://arxiv.org/abs/2403.08820)). 
+
 
 <b>To Friends</b>: I enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
-
 
 News
 ======
@@ -19,8 +25,8 @@ News
 * [2024.07] I will be serving as a PC member for COLING 2024.
 * [2024.06] I will be serving as a PC member for NeurIPS 2024.
 * [2024.06] I will be serving as a PC member for AAAI 2024.
-* [2024.05] One paper was accepted by KDD 2024. Congratulations to my co-authors! 
-* [2024.04] One paper was accepted by IJCAI 2024. Congratulations to my co-authors! 
+* [2024.05] **One paper was accepted by KDD 2024. Congratulations to my co-authors!**
+* [2024.04] **One paper was accepted by IJCAI 2024. Congratulations to my co-authors!**
 * [2024.03] Receive the Travel Award Grand from SDM'24. Thanks SDM!
 * [2023.10] I will be serving as a PC member for COLING 2023.
 * [2023.08] I will be serving as a PC member for AAAI 2023.

@@ -38,10 +38,10 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)]\
+- [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]\
 <b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
-- [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://arxiv.org/abs/2403.08820)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
+- [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
 Zheyuan Zhang\*, <b>Zehong Wang</b>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
 - [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\

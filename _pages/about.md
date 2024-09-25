@@ -21,6 +21,7 @@ I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engin
 News
 ======
 
+* [2024.09] **One paper was accepted by NeurIPS 2024. Congratulations to my co-authors!**
 * [2024.08] I will be serving as a PC member for ICLR 2025. 
 * [2024.07] I will be serving as a PC member for COLING 2024.
 * [2024.06] I will be serving as a PC member for NeurIPS 2024.
@@ -37,6 +38,9 @@ Selected Publications
 You can find the full list of my articles on [Google Scholar profile](https://scholar.google.com/citations?user=-qXxOv0AAAAJ).
 
 (\* indicates equal contribution.)
+
+- [NeurIPS'24] Computation Tree: A Transferable Pattern Towards Graph Foundation Models (Coming soon)\
+<b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
 - [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]\
 <b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.

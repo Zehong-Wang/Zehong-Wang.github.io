@@ -21,6 +21,7 @@ I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engin
 News
 ======
 
+* [2024.10] I will be serving as a PC member for AISTATS 2025. 
 * [2024.09] **One paper was accepted by NeurIPS 2024. Congratulations to my co-authors!**
 * [2024.08] I will be serving as a PC member for ICLR 2025. 
 * [2024.07] I will be serving as a PC member for COLING 2024.
@@ -57,7 +58,7 @@ Services
 
 Journal Reviewer: TKDE, TDSC, TBD, TNNLS
 
-Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AAAI 2024, 2025, COLING 2024, 2025. 
+Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AISTATS 2025, AAAI 2024, 2025, COLING 2024, 2025. 
 
 Contact
 ======

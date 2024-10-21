@@ -40,7 +40,7 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- [NeurIPS'24] Computation Tree: A Transferable Pattern Towards Graph Foundation Models (Coming soon)\
+- [NeurIPS'24] Graph Foundation Model with Transferable Tree Vocabulary (Coming soon)\
 <b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
 - [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]\

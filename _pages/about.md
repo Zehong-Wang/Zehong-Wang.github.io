@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies on machine learning, with the goal of developing effective, efficient, and generalizable models. Currently, my research centers on three main areas:
 
-- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), NeurIPS24).
+- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24]()).
 
 - **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
 

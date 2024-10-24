@@ -21,6 +21,7 @@ I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engin
 News
 ======
 
+* [2024.10] **One paper was accepted by WSDM 2025. Congratulations to my co-authors!**
 * [2024.10] I will be serving as a PC member for AISTATS 2025. 
 * [2024.09] **One paper was accepted by NeurIPS 2024. Congratulations to my co-authors!**
 * [2024.08] I will be serving as a PC member for ICLR 2025. 
@@ -39,6 +40,9 @@ Selected Publications
 You can find the full list of my articles on [Google Scholar profile](https://scholar.google.com/citations?user=-qXxOv0AAAAJ).
 
 (\* indicates equal contribution.)
+
+- [WSDM'25] Training MLPs on Graphs without Supervision (Coming soon)\
+<b>Zehong Wang</b>, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
 - [NeurIPS'24] Graph Foundation Model with Transferable Tree Vocabulary (Coming soon)\
 <b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.

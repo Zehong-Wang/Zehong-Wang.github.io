@@ -41,8 +41,8 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- [WSDM'25] Training MLPs on Graphs without Supervision (Coming soon)\
-<b>Zehong Wang</b>, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+- [WSDM'25] Training MLPs on Graphs without Supervision [[preprint](https://arxiv.org/abs/2402.08918)]\
+<b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
 - [NeurIPS'24] Graph Foundation Model with Transferable Tree Vocabulary (Coming soon)\
 <b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.

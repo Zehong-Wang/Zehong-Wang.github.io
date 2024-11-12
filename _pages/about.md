@@ -62,7 +62,7 @@ Services
 
 Journal Reviewer: TKDE, TDSC, TBD, TNNLS
 
-Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AISTATS 2025, AAAI 2024, 2025, COLING 2024, 2025. 
+Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AISTATS 2025, AAAI 2024, AAAI 2025, COLING 2024, COLING 2025. 
 
 Contact
 ======

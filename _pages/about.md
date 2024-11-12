@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies on machine learning, with the goal of developing effective, efficient, and generalizable models. Currently, my research centers on three main areas:
 
-- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](), [WSDM25](https://arxiv.org/abs/2402.08918)).
+- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2402.08918)).
 
 - **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
 
@@ -44,7 +44,7 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 - [WSDM'25] SimMLP: Training MLPs on Graphs without Supervision [[paper](https://arxiv.org/abs/2402.08918) [[code](https://github.com/Zehong-Wang/SimMLP)]]\
 <b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
-- [NeurIPS'24] Graph Foundation Model with Transferable Tree Vocabulary (Coming soon)\
+- [NeurIPS'24] GFT: Graph Foundation Model with Transferable Tree Vocabulary [[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]\
 <b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
 - [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]\

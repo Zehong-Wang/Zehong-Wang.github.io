@@ -21,6 +21,7 @@ I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engin
 News
 ======
 
+* [2024.11] **One paper was accepted by KDD 2025. Congratulations to my co-authors!**
 * [2024.10] **One paper was accepted by WSDM 2025. Congratulations to my co-authors!**
 * [2024.10] I will be serving as a PC member for AISTATS 2025. 
 * [2024.09] **One paper was accepted by NeurIPS 2024. Congratulations to my co-authors!**

@@ -42,7 +42,7 @@ You can find the full list of my articles on [Google Scholar profile](https://sc
 
 (\* indicates equal contribution.)
 
-- [WSDM'25] SimMLP: Training MLPs on Graphs without Supervision [[paper](https://arxiv.org/abs/2402.08918) [[code](https://github.com/Zehong-Wang/SimMLP)]]\
+- [WSDM'25] SimMLP: Training MLPs on Graphs without Supervision [[paper](https://arxiv.org/abs/2402.08918)] [[code](https://github.com/Zehong-Wang/SimMLP)]\
 <b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
 
 - [NeurIPS'24] GFT: Graph Foundation Model with Transferable Tree Vocabulary [[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]\
@@ -57,6 +57,8 @@ Zheyuan Zhang\*, <b>Zehong Wang</b>\*, Shifu Hou, Evan Hall, Landon Bachman, Vin
 - [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
 <b>Zehong Wang</b>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
 
+- [KDD'25] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
+Zheyuan Zhang, <b>Zehong Wang</b>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, and Yanfang Ye.
 
 Services
 ======

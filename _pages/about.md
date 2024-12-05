@@ -68,7 +68,7 @@ Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, et 
 
 - [**TNNLS**] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling\
 <u>Zehong Wang</u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, et al. \
-[[paper](https://arxiv.org/abs/2402.08907)] [[code]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]
 
 ## 2023
 

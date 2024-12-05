@@ -7,68 +7,88 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student (2023 Fall - Now) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research interest lies on machine learning, with the goal of developing effective, efficient, and generalizable models. Currently, my research centers on three main areas:
+I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
 
-- **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2402.08918)).
+- **Graph Foundation Model**: unified model ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2402.08918)), applications in healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25]()). 
+
+<!-- Currently, my research centers on three main areas: -->
+
+<!-- - **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2402.08918)).
 
 - **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
 
-- **Social Events**: I am passionate about applying my work to solve real-world problems, particularly in healthcare and social analysis ([KDD24](https://arxiv.org/abs/2403.08820)). 
+- **Social Events**: I am passionate about applying my work to solve real-world problems, particularly in healthcare and social analysis ([KDD24](https://arxiv.org/abs/2403.08820)).  -->
 
 
-<b>To Friends</b>: I enjoy engaging in conversations with friends and colleagues. Please feel free to reach out via email if you're interested in our research, potential collaborations, or just wish to chat :) I am open to scheduling discussions at least twice a week.
+If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
 
-News
-======
 
-* [2024.11] **One paper was accepted by KDD 2025. Congratulations to my co-authors!**
-* [2024.10] **One paper was accepted by WSDM 2025. Congratulations to my co-authors!**
-* [2024.10] I will be serving as a PC member for AISTATS 2025. 
-* [2024.09] **One paper was accepted by NeurIPS 2024. Congratulations to my co-authors!**
-* [2024.08] I will be serving as a PC member for ICLR 2025. 
-* [2024.07] I will be serving as a PC member for COLING 2024.
-* [2024.06] I will be serving as a PC member for NeurIPS 2024.
-* [2024.06] I will be serving as a PC member for AAAI 2024.
-* [2024.05] **One paper was accepted by KDD 2024. Congratulations to my co-authors!**
-* [2024.04] **One paper was accepted by IJCAI 2024. Congratulations to my co-authors!**
+
+---
+
+# News
+
+* [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
+* [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2402.08918), an efficient inference method on graphs! 
+* [2024.09] One paper was accepted by **NeurIPS 2024**. We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070).
+* [2024.05] One paper was accepted by **KDD 2024**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
+* [2024.04] One paper was accepted by **IJCAI 2024**. We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)). 
 * [2024.03] Receive the Travel Award Grand from SDM'24. Thanks SDM!
-* [2023.10] I will be serving as a PC member for COLING 2023.
-* [2023.08] I will be serving as a PC member for AAAI 2023.
 
-Selected Publications
-======
+---
 
-You can find the full list of my articles on [Google Scholar profile](https://scholar.google.com/citations?user=-qXxOv0AAAAJ).
+# Selected Publications [Full List](https://scholar.google.com/citations?user=-qXxOv0AAAAJ) 
 
 (\* indicates equal contribution.)
 
-- [WSDM'25] SimMLP: Training MLPs on Graphs without Supervision [[paper](https://arxiv.org/abs/2402.08918)] [[code](https://github.com/Zehong-Wang/SimMLP)]\
-<b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
+## 2025
 
-- [NeurIPS'24] GFT: Graph Foundation Model with Transferable Tree Vocabulary [[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]\
-<b>Zehong Wang</b>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
+- [**WSDM 25**] SimMLP: Training MLPs on Graphs without Supervision\
+<u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2402.08918)] [[code](https://github.com/Zehong-Wang/SimMLP)]
 
-- [IJCAI'24] Subgraph Pooling: Tackling Negative Transfer on Graphs. [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]\
-<b>Zehong Wang</b>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.
+- [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
+Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, et al.
 
-- [KDD'24] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern. [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]\
-Zheyuan Zhang\*, <b>Zehong Wang</b>\*, Shifu Hou, Evan Hall, Landon Bachman, Vincent Galassi, Jasmine White, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.
 
-- [SDM'23] Heterogeneous Graph Contrastive Multi-view Learning. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]\
-<b>Zehong Wang</b>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. 
+## 2024
 
-- [KDD'25] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
-Zheyuan Zhang, <b>Zehong Wang</b>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, and Yanfang Ye.
+- [**NeurIPS 24**] GFT: Graph Foundation Model with Transferable Tree Vocabulary\
+<u>Zehong Wang</u>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]
 
-Services
-======
+- [**KDD 24**] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern\
+Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, et al.\
+[[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]
+
+- [**IJCAI 24**] Subgraph Pooling: Tackling Negative Transfer on Graphs\
+<u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]
+
+
+- [**TNNLS**] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling\
+<u>Zehong Wang</u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, et al. \
+[[paper](https://arxiv.org/abs/2402.08907)] [[code]()]
+
+## 2023
+
+- [**SDM 23**] Heterogeneous Graph Contrastive Multi-view Learning\
+<u>Zehong Wang</u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. \
+[[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16)] [[code](https://github.com/Zehong-Wang/HGCML)]
+
+
+---
+
+# Services
 
 Journal Reviewer: TKDE, TDSC, TBD, TNNLS
 
 Conference Reviewer/Program Committee: NeurIPS 2024, ICLR 2025, AISTATS 2025, AAAI 2024, AAAI 2025, COLING 2024, COLING 2025. 
 
-Contact
-======
+---
+
+
+# Contact
 
 - Email: zwang43 [at] nd [dot] edu
 - Office: 247 Fitzpatrick Hall of Engineering

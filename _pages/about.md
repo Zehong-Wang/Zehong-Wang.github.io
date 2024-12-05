@@ -33,7 +33,7 @@ If you’re interested in my research or would like to explore potential collabo
 * [2024.09] One paper was accepted by **NeurIPS 2024**. We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070).
 * [2024.05] One paper was accepted by **KDD 2024**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
 * [2024.04] One paper was accepted by **IJCAI 2024**. We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)). 
-* [2024.03] Receive the Travel Award Grand from SDM'24. Thanks SDM!
+* [2024.03] Receive the Travel Award Grand from **SDM 24**. Thanks SDM!
 
 ---
 

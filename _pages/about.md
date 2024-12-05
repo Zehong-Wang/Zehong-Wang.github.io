@@ -43,7 +43,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 ## 2025
 
-- [**WSDM 25**] SimMLP: Training MLPs on Graphs without Supervision\
+- [**WSDM 25**] Training MLPs on Graphs without Supervision\
 <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2402.08918)] [[code](https://github.com/Zehong-Wang/SimMLP)]
 

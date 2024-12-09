@@ -9,11 +9,11 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
 
-- **Graph Foundation Model**: unified model ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2402.08918)), applications in healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25]()). 
+- **Graph Foundation Model**: unified model ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)), applications in healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25]()). 
 
 <!-- Currently, my research centers on three main areas: -->
 
-<!-- - **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2402.08918)).
+<!-- - **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2412.03864)).
 
 - **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
 
@@ -29,7 +29,7 @@ If you’re interested in my research or would like to explore potential collabo
 # News
 
 * [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
-* [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2402.08918), an efficient inference method on graphs! 
+* [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs! 
 * [2024.09] One paper was accepted by **NeurIPS 2024**. We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070).
 * [2024.05] One paper was accepted by **KDD 2024**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
 * [2024.04] One paper was accepted by **IJCAI 2024**. We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)). 
@@ -45,7 +45,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 - [**WSDM 25**] Training MLPs on Graphs without Supervision\
 <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2402.08918)] [[code](https://github.com/Zehong-Wang/SimMLP)]
+[[paper](https://arxiv.org/abs/2412.03864)] [[code](https://github.com/Zehong-Wang/SimMLP)]
 
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
 Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, et al.

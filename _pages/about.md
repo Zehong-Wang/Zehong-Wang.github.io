@@ -44,7 +44,9 @@ If you’re interested in my research or would like to explore potential collabo
 ## Preprint
 
 - Can LLMs Convert Graphs to Text-Attributed Graphs?\
-<u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.
+<u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
+[[paper]()] [[code](https://github.com/Zehong-Wang/TANS)]
+
 
 ## 2025
 

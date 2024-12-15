@@ -56,7 +56,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
 Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, et al.
-
+[[paper](https://arxiv.org/abs/2412.08847)]
 
 ## 2024
 

@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
 
-- **Graph Foundation Model**: unified model ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)), applications in healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25]()). 
+- **Graph Foundation Model**: unified model ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([preprint](http://arxiv.org/abs/2412.10136)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)), applications in healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25]()). 
 
 <!-- Currently, my research centers on three main areas: -->
 
@@ -45,7 +45,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 - Can LLMs Convert Graphs to Text-Attributed Graphs?\
 <u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
-[[paper]()] [[code](https://github.com/Zehong-Wang/TANS)]
+[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
 
 
 ## 2025

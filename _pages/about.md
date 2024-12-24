@@ -52,7 +52,7 @@ If you’re interested in my research or would like to explore potential collabo
 [[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
 
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
-Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, Zehong Wang, Tianyi Ma, Vincent Galassi, et al.\
+Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
 [[paper](https://arxiv.org/abs/2412.15547)]
 
 

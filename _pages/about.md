@@ -28,6 +28,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
 * [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
 * [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs! 
 * [2024.09] One paper was accepted by **NeurIPS 2024**. We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070).
@@ -47,9 +48,6 @@ If you’re interested in my research or would like to explore potential collabo
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-- Can LLMs Convert Graphs to Text-Attributed Graphs?\
-<u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
-[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
 
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
@@ -57,6 +55,10 @@ Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et
 
 
 ## 2025
+
+- [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
+<u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
+[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
 
 - [**WSDM 25**] Training MLPs on Graphs without Supervision\
 <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\

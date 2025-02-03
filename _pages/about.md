@@ -47,7 +47,7 @@ If you’re interested in my research or would like to explore potential collabo
 ## Preprint
 
 - Neural Graph Pattern Machine\
-- <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2501.18739)]
 
 - Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\

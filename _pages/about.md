@@ -13,7 +13,7 @@ I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and E
 
 - **Next-Generation Graph Learning**: supervised learning ([preprint](https://arxiv.org/abs/2501.18739)). 
 
-- **Graph + Everything**: healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)), recommender systems ([KDD 25](https://arxiv.org/abs/2412.08847)), QA ([preprint](https://arxiv.org/abs/2412.15547)). 
+- **Graph + Everything**: healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)), recommender systems ([KDD 25](https://arxiv.org/abs/2412.08847)), question answering ([preprint](https://arxiv.org/abs/2412.15547)). 
 
 <!-- Currently, my research centers on three main areas: -->
 

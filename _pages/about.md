@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
+I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). I also work closely with [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
 
 - **Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([preprint](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
 

@@ -10,10 +10,10 @@ redirect_from:
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). I also work closely with [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing foundation models on graphs, exploring their methodologies, theoretical basis, and applications.
 
 - **Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([preprint](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
-
 - **Next-Generation Graph Learning**: supervised learning ([preprint](https://arxiv.org/abs/2501.18739)). 
-
 - **Graph + LLM**: recommender systems ([KDD 25](https://arxiv.org/abs/2412.08847)), question answering ([preprint](https://arxiv.org/abs/2412.15547)), healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)). 
+
+If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
 
 <!-- Currently, my research centers on three main areas: -->
 
@@ -24,7 +24,6 @@ I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and E
 - **Social Events**: I am passionate about applying my work to solve real-world problems, particularly in healthcare and social analysis ([KDD24](https://arxiv.org/abs/2403.08820)).  -->
 
 
-If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
 
 
 
@@ -32,6 +31,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.02] I will join Amazon as Applied Scientist Intern this Summer. See you in Seattle!
 * [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
 * [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
 * [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs! 

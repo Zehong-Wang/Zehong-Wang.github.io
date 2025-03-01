@@ -31,7 +31,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
-* [2025.02] I will join Amazon as Applied Scientist Intern this Summer. See you in Seattle!
+* [2025.02] I will join Amazon as Applied Scientist Intern this Summer working with Prof. [Rui Song](https://song-ray.github.io/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
 * [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
 * [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs! 

@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). I also work closely with [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.  -->
-
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Under Prof. Ye’s supervision, I collaborate with [my lab mates](http://yes-lab.org/students.html) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.
 
 - **Next-Gen Paradigm - Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([preprint](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
@@ -58,11 +56,13 @@ If you’re interested in my research or would like to explore potential collabo
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
 [[paper](https://arxiv.org/abs/2412.15547)]
 
+- LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
+Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
+[[paper](https://arxiv.org/abs/2503.01900)]
 
 ## 2025
 

@@ -59,7 +59,7 @@ If you’re interested in my research or would like to explore potential collabo
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
 [[paper](https://arxiv.org/abs/2412.15547)]
-
+ 
 - LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
 Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
 [[paper](https://arxiv.org/abs/2503.01900)]

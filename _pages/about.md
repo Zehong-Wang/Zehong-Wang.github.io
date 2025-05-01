@@ -9,8 +9,8 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Under Prof. Ye’s supervision, I collaborate with [my lab mates](http://yes-lab.org/students.html) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.
 
-- **Next-Gen Paradigm - Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([preprint](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
-- **Next-Gen Model Architecture - Beyond Message Passing**: supervised learning ([preprint](https://arxiv.org/abs/2501.18739)). 
+- **Next-Gen Paradigm - Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
+- **Next-Gen Model Architecture - Beyond Message Passing**: supervised learning ([ICML 25](https://arxiv.org/abs/2501.18739)). 
 - **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([preprint](https://arxiv.org/abs/2412.15547)). 
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
@@ -31,6 +31,8 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
+We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
 * [2025.02] I will join Amazon as Applied Scientist Intern this Summer working with Prof. [Rui Song](https://song-ray.github.io/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
 * [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
@@ -48,14 +50,6 @@ If you’re interested in my research or would like to explore potential collabo
 
 ## Preprint
 
-- Neural Graph Pattern Machine\
-<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2501.18739)]
-
-- Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
-<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
-
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
 [[paper](https://arxiv.org/abs/2412.15547)]
@@ -65,6 +59,14 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 [[paper](https://arxiv.org/abs/2503.01900)]
 
 ## 2025
+
+- [**ICML 25**] Neural Graph Pattern Machine\
+<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2501.18739)]
+
+- [**ICML 25**] Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-trees\
+<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
 - [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
 <u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\

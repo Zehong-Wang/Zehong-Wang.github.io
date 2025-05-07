@@ -76,9 +76,9 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-- [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
+- [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs? (Oral)\
 <u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
-[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)] (Oral)
+[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)] 
 
 - [**WSDM 25**] Training MLPs on Graphs without Supervision\
 <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\

@@ -31,6 +31,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.05] We will hold two **KDD 25** tutorials on graph foundation models and graph prompt learning. 
 * [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
 * [2025.02] I will join Amazon as Applied Scientist Intern this Summer working with Prof. [Rui Song](https://song-ray.github.io/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
@@ -47,7 +48,15 @@ If you’re interested in my research or would like to explore potential collabo
 
 (\* indicates equal contribution.)
 
-## Preprint
+## Tutorial
+
+- [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
+<u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.
+
+- [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
+Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
+
+<!-- ## Preprint
 
 - NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
@@ -55,7 +64,7 @@ Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et
  
 - LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
 Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
-[[paper](https://arxiv.org/abs/2503.01900)]
+[[paper](https://arxiv.org/abs/2503.01900)] -->
 
 ## 2025
 
@@ -69,14 +78,14 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 
 - [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs?\
 <u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
-[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)]
+[[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)] (Oral)
 
 - [**WSDM 25**] Training MLPs on Graphs without Supervision\
 <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.03864)] [[code](https://github.com/Zehong-Wang/SimMLP)]
 
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
-Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, et al.
+Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.08847)]
 
 ## 2024
@@ -86,7 +95,7 @@ Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson,
 [[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]
 
 - [**KDD 24**] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern\
-Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, et al.\
+Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, Jasmine White, Vincent Galassi, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]
 
 - [**IJCAI 24**] Subgraph Pooling: Tackling Negative Transfer on Graphs\
@@ -94,9 +103,9 @@ Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, et 
 [[paper](https://arxiv.org/abs/2402.08907)] [[code](https://github.com/Zehong-Wang/Subgraph-Pooling)] [[poster](/files/ijcai24/sp/poster.pdf)]
 
 
-- [**TNNLS**] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling\
+<!-- - [**TNNLS**] Select Your Own Counterparts: Self-Supervised Graph Contrastive Learning With Positive Sampling\
 <u>Zehong Wang</u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, et al. \
-[[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()] -->
 
 ## 2023
 

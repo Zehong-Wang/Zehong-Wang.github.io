@@ -15,17 +15,6 @@ I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and E
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
 
-<!-- Currently, my research centers on three main areas: -->
-
-<!-- - **Graph Foundation Model**: I am working on creating a unified framework to address the challenges posed by cross-domain and cross-task graphs ([IJCAI24](https://arxiv.org/abs/2402.08907), [NeurIPS24](https://arxiv.org/abs/2411.06070), [WSDM25](https://arxiv.org/abs/2412.03864)).
-
-- **AI Alignment**: I am exploring ways to design AI systems capable of handling tasks that are challenging for humans, with a focus on aligning AI behavior with human values.
-
-- **Social Events**: I am passionate about applying my work to solve real-world problems, particularly in healthcare and social analysis ([KDD24](https://arxiv.org/abs/2403.08820)).  -->
-
-
-
-
 
 ---
 
@@ -52,7 +41,8 @@ If you’re interested in my research or would like to explore potential collabo
 ## Tutorial
 
 - [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
-<u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.
+<u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.\
+[[website](https://sites.google.com/view/kdd25-gfm-tutorial)]
 
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
@@ -79,11 +69,11 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
 Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2412.08847)][[code](https://github.com/Anonymous-Be3fb6/MOPI-HFRS/tree/main)]
+[[paper](https://arxiv.org/abs/2412.08847)] [[code](https://github.com/Anonymous-Be3fb6/MOPI-HFRS/tree/main)]
 
 - [**ACL 25 Main**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
 Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
-[[paper](https://arxiv.org/abs/2412.15547)][[code](https://anonymous.4open.science/r/NGQA-5E7F/README.md)]
+[[paper](https://arxiv.org/abs/2412.15547)] [[code](https://anonymous.4open.science/r/NGQA-5E7F/README.md)]
  
 - [**ACL 25 Findings**] LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
 Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\

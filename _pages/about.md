@@ -11,7 +11,7 @@ I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and E
 
 - **Next-Gen Paradigm - Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
 - **Next-Gen Model Architecture - Beyond Message Passing**: supervised learning ([ICML 25](https://arxiv.org/abs/2501.18739)). 
-- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([preprint](https://arxiv.org/abs/2412.15547)). 
+- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), Social Media Detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
 
@@ -31,6 +31,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.05] Two papers were accepted by **ACL 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)!
 * [2025.05] We will hold two **KDD 25** tutorials on graph foundation models and graph prompt learning. 
 * [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
 * [2025.02] I will join Amazon as Applied Scientist Intern this Summer working with Prof. [Rui Song](https://song-ray.github.io/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
@@ -56,15 +57,7 @@ If you’re interested in my research or would like to explore potential collabo
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
 
-<!-- ## Preprint
-
-- NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
-Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
-[[paper](https://arxiv.org/abs/2412.15547)]
- 
-- LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
-Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
-[[paper](https://arxiv.org/abs/2503.01900)] -->
+<!-- ## Preprint -->
 
 ## 2025
 
@@ -76,7 +69,7 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.16441)] [[code](https://github.com/Zehong-Wang/GIT)]
 
-- [**NAACL 25**] Can LLMs Convert Graphs to Text-Attributed Graphs? (Oral)\
+- [**NAACL 25 Main**] Can LLMs Convert Graphs to Text-Attributed Graphs? (Oral)\
 <u>Zehong Wang</u>, Sidney Liu, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
 [[paper](http://arxiv.org/abs/2412.10136)] [[code](https://github.com/Zehong-Wang/TANS)] 
 
@@ -87,6 +80,15 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 - [**KDD 25**] MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation\
 Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson, Nhi Ha Lan Le, Keerthiram Murugesan, Mingxuan Ju, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2412.08847)]
+
+- [**ACL 25 Main**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
+Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
+[[paper](https://arxiv.org/abs/2412.15547)]
+ 
+- [**ACL 25 Findings**] LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\
+Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
+[[paper](https://arxiv.org/abs/2503.01900)]
+
 
 ## 2024
 

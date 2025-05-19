@@ -21,7 +21,7 @@ If you’re interested in my research or would like to explore potential collabo
 # News
 
 * [2025.05] Two papers were accepted by **ACL 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)!
-* [2025.05] Two tutorial proposals were accepted by **KDD 25**---one on [[graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial)] and the other on graph prompt learning. Looking forward to seeing you in Toronto! 
+* [2025.05] Two tutorial proposals were accepted by **KDD 25**---one on [graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial) and the other on graph prompt learning. Looking forward to seeing you in Toronto! 
 * [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
 * [2025.02] I will join Amazon as Applied Scientist Intern this Summer working with Prof. [Rui Song](https://song-ray.github.io/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 

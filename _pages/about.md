@@ -9,7 +9,7 @@ redirect_from:
 
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and work closely with [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.
 
-- **Next-Gen Paradigm - Graph Foundation Model**: transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
+- **Next-Gen Paradigm - Graph Foundation Model** ([Survey](https://arxiv.org/abs/2505.15116)): transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
 - **Next-Gen Model Architecture - Beyond Message Passing**: supervised learning ([ICML 25](https://arxiv.org/abs/2501.18739)). 
 - **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
@@ -20,6 +20,7 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.05] Our survey on graph foundation model is released ([paper](https://arxiv.org/abs/2505.15116), [awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)). 
 * [2025.05] Two papers were accepted by **ACL 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)!
 * [2025.05] Two tutorial proposals were accepted by **KDD 25**---one on [graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial) and the other on graph prompt learning. Looking forward to seeing you in Toronto! 
 * [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
@@ -38,11 +39,17 @@ If you’re interested in my research or would like to explore potential collabo
 
 (\* indicates equal contribution.)
 
+## Survey
+
+- Graph Foundation Models: A Comprehensive Survey\
+<u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
+
 ## Tutorial
 
 - [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
 <u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.\
-[[website](https://sites.google.com/view/kdd25-gfm-tutorial)]
+[[website](https://sites.google.com/view/kdd25-gfm-tutorial)] [[extended survey](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 

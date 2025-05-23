@@ -87,7 +87,7 @@ Zheyuan Zhang, <u>Zehong Wang</u>, Tianyi Ma, Varun Sameer Taneja, Sofia Nelson,
 [[paper](https://arxiv.org/abs/2412.08847)] [[code](https://github.com/Anonymous-Be3fb6/MOPI-HFRS/tree/main)]
 
 - [**ACL 25 Main**] NGQA: A Nutritional Graph Question Answering Benchmark for Personalized Health-aware Nutritional Reasoning\
-Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, et al.\
+Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, Vincent Galassi, Keerthiram Murugesan, Nuno Moniz, Werner Geyer, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye\
 [[paper](https://arxiv.org/abs/2412.15547)] [[code](https://anonymous.4open.science/r/NGQA-5E7F/README.md)]
  
 - [**ACL 25 Findings**] LLM-Empowered Class Imbalanced Graph Prompt Learning for Online Drug Trafficking Detection\

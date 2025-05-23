@@ -10,7 +10,7 @@ redirect_from:
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/) and work closely with [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.
 
 - **Next-Gen Paradigm - Graph Foundation Model** ([Survey](https://arxiv.org/abs/2505.15116)): transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
-- **Next-Gen Model Architecture - Beyond Message Passing**: supervised learning ([ICML 25](https://arxiv.org/abs/2501.18739)). 
+- **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([arxiv](https://arxiv.org/abs/2505.16130)).
 - **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (**zwang43 [AT] nd [DOT] edu**). Looking forward to connecting!
@@ -38,6 +38,14 @@ If you’re interested in my research or would like to explore potential collabo
 # Selected Publications [Full List](https://scholar.google.com/citations?user=-qXxOv0AAAAJ) 
 
 (\* indicates equal contribution.)
+
+
+## Preprint
+
+- Scalable Graph Generative Modeling via Substructure Sequences\
+<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
+
 
 ## Survey
 

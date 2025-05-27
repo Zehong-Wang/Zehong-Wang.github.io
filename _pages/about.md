@@ -69,7 +69,7 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 
 ## 2025
 
-- [**ICML 25**] Neural Graph Pattern Machine\
+- [**ICML 25**] Beyond Message Passing: Neural Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2501.18739)] [[code](https://github.com/Zehong-Wang/GPM)]
 

@@ -11,7 +11,7 @@ I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and E
 
 - **Next-Gen Paradigm - Graph Foundation Model** ([Survey](https://arxiv.org/abs/2505.15116)): transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
 - **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([arxiv](https://arxiv.org/abs/2505.16130)).
-- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
+- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), multi-agent collaboration ([arxiv](https://arxiv.org/abs/2505.15859)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (*zwang43 [AT] nd [DOT] edu*). Looking forward to connecting!
 
@@ -46,6 +46,9 @@ If you’re interested in my research or would like to explore potential collabo
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
 
+- AutoData: A Multi-Agent System for Open Web Data Collection\
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)]
 
 ## Survey
 

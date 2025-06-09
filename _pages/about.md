@@ -130,7 +130,7 @@ Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, Jas
 
 Journal Reviewer: TMLR, TKDE, TKDD, TDSC, TBD, TNNLS
 
-Conference Reviewer/Program Committee: NeurIPS 2025 2024, ICLR 2025 2024, ICML 2025, KDD 2025, AISTATS 2025, AAAI 2025 2024, COLING 2025 2024. 
+Conference Reviewer/Program Committee: NeurIPS 2025 2024, ICLR 2025 2024, ICML 2025, KDD 2025, ACL 2025, AISTATS 2025, AAAI 2025 2024, COLING 2025 2024, CIKM 2025.
 
 ---
 

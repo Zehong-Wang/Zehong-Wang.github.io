@@ -10,8 +10,8 @@ redirect_from:
 I am a second year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at [University of Notre Dame](https://www.nd.edu/). I am supervised by [Prof. Yanfang (Fanny) Ye](http://yes-lab.org/). Under Prof. Ye’s supervision, I collaborate with my [lab mates](http://yes-lab.org/students.html) and [Prof. Chuxu Zhang](https://chuxuzhang.github.io/). My research focuses on machine learning, with a particular emphasis on developing effective, efficient, and generalizable models. Currently, I am deeply engaged in designing next generation graph learning models, exploring their methodologies, theoretical basis, and applications. Specifically, the topics cover the following three aspects.
 
 - **Next-Gen Paradigm - Graph Foundation Model** ([Survey](https://arxiv.org/abs/2505.15116)): transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
-- **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([arxiv](https://arxiv.org/abs/2505.16130)).
-- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), multi-agent collaboration ([arxiv](https://arxiv.org/abs/2505.15859)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
+- **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([NeurIPS 25](https://arxiv.org/abs/2505.16130)).
+- **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), multi-agent collaboration ([NeurIPS 25](https://arxiv.org/abs/2505.15859)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
 If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (*zwang43 [AT] nd [DOT] edu*). Looking forward to connecting!
 
@@ -20,6 +20,8 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
+* [2025.09] Two papers were accepted by **NeurIPS 2025**: (1) We developed a Transformer-based graph pre-training method using substructures, enabling scalable learning ([G2PM](https://arxiv.org/abs/2505.16130)). (2) We developed [AutoData](https://arxiv.org/abs/2505.15859) that uses hypergraphs for multi-agent collaboration, achieving automatic data collection. 
+* [2025.08] One paper was accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)!
 * [2025.05] I will join Amazon as Applied Scientist Intern working with Prof. [Rui Song](https://song-ray.github.io/), Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.05] Our **survey** on [graph foundation model](https://arxiv.org/abs/2505.15116) is released.
 * [2025.05] Two papers were accepted by **ACL 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)!
@@ -40,15 +42,8 @@ If you’re interested in my research or would like to explore potential collabo
 (\* indicates equal contribution.)
 
 
-## Preprint
+<!-- ## Preprint -->
 
-- Scalable Graph Generative Modeling via Substructure Sequences\
-<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
-
-- AutoData: A Multi-Agent System for Open Web Data Collection\
-Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)]
 
 ## Survey
 
@@ -68,6 +63,15 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 <!-- ## Preprint -->
 
 ## 2025
+
+
+- [**NeurIPS 25**] Scalable Graph Generative Modeling via Substructure Sequences\
+<u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
+
+- [**NeurIPS 25**] AutoData: A Multi-Agent System for Open Web Data Collection\
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)]
 
 - [**ICML 25**] Beyond Message Passing: Neural Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
@@ -97,6 +101,8 @@ Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, Vi
 Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
 [[paper](https://arxiv.org/abs/2503.01900)]
 
+- [**ICDM 25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
 
 ## 2024
 

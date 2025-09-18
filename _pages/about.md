@@ -102,7 +102,7 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 [[paper](https://arxiv.org/abs/2503.01900)]
 
 - [**ICDM 25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
-Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.\
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.
 
 ## 2024
 

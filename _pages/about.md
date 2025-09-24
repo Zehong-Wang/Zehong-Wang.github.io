@@ -20,19 +20,29 @@ If you’re interested in my research or would like to explore potential collabo
 
 # News
 
-* [2025.09] Two papers were accepted by **NeurIPS 2025**: (1) We developed a Transformer-based graph pre-training method using substructures, enabling scalable learning ([G2PM](https://arxiv.org/abs/2505.16130)). (2) We developed [AutoData](https://arxiv.org/abs/2505.15859) that uses hypergraphs for multi-agent collaboration, achieving automatic data collection. 
-* [2025.08] One paper was accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)!
+* [2025.09] Two papers ([G2PM](https://arxiv.org/abs/2505.16130), [AutoData](https://arxiv.org/abs/2505.15859)) were accepted by **NeurIPS 2025**. 
+<!-- * : (1) We developed a Transformer-based graph pre-training method using substructures, enabling scalable learning ([G2PM](https://arxiv.org/abs/2505.16130)). (2) We developed [AutoData](https://arxiv.org/abs/2505.15859) that uses hypergraphs for multi-agent collaboration, achieving automatic data collection.  -->
+<!-- * [2025.08] One paper was accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)! -->
 * [2025.05] I will join Amazon as Applied Scientist Intern working with Prof. [Rui Song](https://song-ray.github.io/), Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.05] Our **survey** on [graph foundation model](https://arxiv.org/abs/2505.15116) is released.
-* [2025.05] Two papers were accepted by **ACL 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)!
-* [2025.05] Two tutorial proposals were accepted by **KDD 25**---one on [graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial) and the other on graph prompt learning. Looking forward to seeing you in Toronto! 
-* [2025.05] Two papers were accepted by **ICML 2025**: (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing. 
-* [2025.01] One paper was accepted by **NAACL 2025**. We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs. 
-* [2024.11] One paper was accepted by **KDD 2025**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
-* [2024.10] One paper was accepted by **WSDM 2025**. We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs! 
-* [2024.09] One paper was accepted by **NeurIPS 2024**. We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070).
-* [2024.05] One paper was accepted by **KDD 2024**. Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)!
-* [2024.04] One paper was accepted by **IJCAI 2024**. We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)). 
+* [2025.05] Two papers ([NGQA](https://arxiv.org/abs/2412.15547), [LLM-HetGDT](https://arxiv.org/abs/2503.01900)) were accepted by **ACL 2025**. 
+<!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)! -->
+* [2025.05] Two tutorials were accepted by **KDD 25**
+<!-- * ---one on [graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial) and the other on graph prompt learning. Looking forward to seeing you in Toronto!  -->
+* [2025.05] Two papers ([GPM](https://arxiv.org/abs/2501.18739), [GIT](https://arxiv.org/abs/2412.16441)) were accepted by **ICML 2025**. 
+<!-- * : (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing.  -->
+* [2025.01] One paper ([TANS](http://arxiv.org/abs/2412.10136)) was accepted by **NAACL 2025**. 
+<!-- * We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs.  -->
+* [2024.11] One paper ([MOPI-HFRS](https://arxiv.org/abs/2412.08847)) was accepted by **KDD 2025**. 
+<!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)! -->
+* [2024.10] One paper ([SimMLP](https://arxiv.org/abs/2412.03864)) was accepted by **WSDM 2025**. 
+<!-- * We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs!  -->
+* [2024.09] One paper ([GFT](https://arxiv.org/abs/2411.06070)) was accepted by **NeurIPS 2024**. 
+<!-- * We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070). -->
+* [2024.05] One paper ([Diet-ODIN](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)) was accepted by **KDD 2024**. 
+<!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)! -->
+* [2024.04] One paper ([Subgraph Pooling](https://arxiv.org/abs/2402.08907)) was accepted by **IJCAI 2024**. 
+<!-- * We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)).  -->
 * [2024.03] Receive the Travel Award Grand from SDM 2024. Thanks SDM!
 
 ---
@@ -101,8 +111,8 @@ Zheyuan Zhang\*, Yiyang Li\*, Nhi Ha Lan Le\*, <u>Zehong Wang</u>, Tianyi Ma, Vi
 Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Ye\
 [[paper](https://arxiv.org/abs/2503.01900)]
 
-- [**ICDM 25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
-Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye.
+<!-- - [**ICDM 25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
+Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye. -->
 
 ## 2024
 

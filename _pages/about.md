@@ -13,8 +13,7 @@ I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and En
 - **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([NeurIPS 25](https://arxiv.org/abs/2505.16130)).
 - **Next-Gen Application - Graph + X**: graph-based explanation ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), multi-agent collaboration ([NeurIPS 25](https://arxiv.org/abs/2505.15859)), GraphRAG ([ACL 25](https://arxiv.org/abs/2412.15547)), social media detection ([ACL 25](https://arxiv.org/abs/2503.01900)).
 
-If you’re interested in my research or would like to explore potential collaborations, feel free to reach out via email (*zwang43 [AT] nd [DOT] edu*). Looking forward to connecting!
-
+Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any questions, explore potential collaborations, or just for talk! 
 
 ---
 

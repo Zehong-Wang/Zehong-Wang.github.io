@@ -19,6 +19,7 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 # News
 
+* [2025.09] Our **survey** on [LLM for cross-disciplinary research](https://arxiv.org/abs/2509.19580) is released.
 * [2025.09] Two papers ([G2PM](https://arxiv.org/abs/2505.16130), [AutoData](https://arxiv.org/abs/2505.15859)) were accepted by **NeurIPS 2025**. 
 <!-- * : (1) We developed a Transformer-based graph pre-training method using substructures, enabling scalable learning ([G2PM](https://arxiv.org/abs/2505.16130)). (2) We developed [AutoData](https://arxiv.org/abs/2505.15859) that uses hypergraphs for multi-agent collaboration, achieving automatic data collection.  -->
 <!-- * [2025.08] One paper was accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)! -->

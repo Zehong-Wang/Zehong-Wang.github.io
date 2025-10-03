@@ -57,14 +57,14 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 ## Survey
 
+- Graph Foundation Models: A Comprehensive Survey\
+<u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15116)] [[repo](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
+
 - LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
 Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
 [[paper](https://arxiv.org/abs/2509.19580)]
 
-
-- Graph Foundation Models: A Comprehensive Survey\
-<u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 ## Tutorial
 

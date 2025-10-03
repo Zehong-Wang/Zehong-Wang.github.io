@@ -57,6 +57,11 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 ## Survey
 
+- LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
+Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
+[[paper](https://arxiv.org/abs/2509.19580)]
+
+
 - Graph Foundation Models: A Comprehensive Survey\
 <u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
@@ -65,7 +70,7 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 - [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
 <u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.\
-[[website](https://sites.google.com/view/kdd25-gfm-tutorial)] [[extended survey](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
+<!-- [[website](https://sites.google.com/view/kdd25-gfm-tutorial)] [[extended survey](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)] -->
 
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
@@ -146,7 +151,7 @@ Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, Jas
 
 Journal Reviewer: TMLR, TKDE, TKDD, TDSC, TBD, TNNLS
 
-Conference Reviewer/Program Committee: NeurIPS 2025 2024, ICLR 2025 2024, ICML 2025, KDD 2025, ACL 2025, AISTATS 2025, AAAI 2025 2024, COLING 2025 2024, CIKM 2025.
+Conference Reviewer/Program Committee: NeurIPS 2025 2024, ICLR 2026 2025 2024, ICML 2025, KDD 2025, ACL 2025, AISTATS 2026 2025, AAAI 2026 2025 2024, COLING 2025 2024, etc. 
 
 ---
 
@@ -154,5 +159,5 @@ Conference Reviewer/Program Committee: NeurIPS 2025 2024, ICLR 2025 2024, ICML 2
 # Contact
 
 - Email: zwang43 [at] nd [dot] edu
-- Office: 247 Fitzpatrick Hall of Engineering
-- Location: University of Notre Dame, Notre Dame, IN 46565
+<!-- - Office: 247 Fitzpatrick Hall of Engineering -->
+<!-- - Location: University of Notre Dame, Notre Dame, IN 46565 -->

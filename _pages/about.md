@@ -86,7 +86,7 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 ## 2025
 
 
-- [**NeurIPS 25**] Scalable Graph Generative Modeling via Substructure Sequences\
+- [**NeurIPS 25**] Generative Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
 

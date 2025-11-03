@@ -55,22 +55,7 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 # Selected Publications [Full List](https://scholar.google.com/citations?user=-qXxOv0AAAAJ) 
 
-(\* indicates equal contribution.)
-
-
-<!-- ## Preprint -->
-
-
-## Survey
-
-- Graph Foundation Models: A Comprehensive Survey\
-<u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2505.15116)] [[repo](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
-
-- LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
-Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
-[[paper](https://arxiv.org/abs/2509.19580)]
-
+(\* indicates equal contribution. The last co-first author indicates my supervision.)
 
 ## Tutorial
 
@@ -81,18 +66,41 @@ Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, 
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
 
-<!-- ## Preprint -->
 
-## 2025
+## Survey
+
+- Graph Foundation Models: A Comprehensive Survey\
+<u>Zehong Wang</u>, Zheyuan Liu, Tianyi Ma, Jiazheng Li, Zheyuan Zhang, Xingbo Fu, Yiyang Li, Zhengqing Yuan, Wei Song, Yijun Ma, Qingkai Zeng, Xiusi Chen, Jianan Zhao, Jundong Li, Meng Jiang, Pietro Lio, Nitesh Chawla, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2505.15116)] [[github](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
+
+- LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
+Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
+[[paper](https://arxiv.org/abs/2509.19580)]
+
+
+## Preprint
+
+
+- Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance\
+Jiachi Zhao*, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
+[[paper](http://arxiv.org/abs/2510.10402)] 
+
+- Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use\
+Yiyang Li*, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2510.15961)]
+
+
+<!-- ## 2025 -->
+## Conference & Journal
 
 
 - [**NeurIPS 25**] Generative Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2505.16130)] [[code](https://github.com/Zehong-Wang/G2PM)]
 
-- [**NeurIPS 25**] AutoData: A Multi-Agent System for Open Web Data Collection\
+<!-- - [**NeurIPS 25**] AutoData: A Multi-Agent System for Open Web Data Collection\
 Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Xiaoye Qian, Feifan Bai, Yifan Ding, Xuwei Luo, Shinan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)]
+[[paper](https://arxiv.org/abs/2505.15859)] [[code](https://github.com/GraphResearcher/AutoData)] -->
 
 - [**ICML 25**] Beyond Message Passing: Neural Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
@@ -125,7 +133,7 @@ Tianyi Ma, Yiyue Qian, <u>Zehong Wang</u>, Zheyuan Zhang, Chuxu Zhang, Yanfang Y
 <!-- - [**ICDM 25**] Hypergraph Representation Learning with Adaptive Broadcasting and Receiving\
 Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zhang, and Yanfang Ye. -->
 
-## 2024
+<!-- ## 2024 -->
 
 - [**NeurIPS 24**] GFT: Graph Foundation Model with Transferable Tree Vocabulary\
 <u>Zehong Wang</u>, Zheyuan Zhang, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
@@ -144,7 +152,7 @@ Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, Jas
 <u>Zehong Wang</u>, Donghua Yu, Shigen Shen, Shichao Zhang, Huawen Liu, et al. \
 [[paper](https://ieeexplore.ieee.org/abstract/document/10507017)] [[code]()] -->
 
-## 2023
+<!-- ## 2023 -->
 
 - [**SDM 23**] Heterogeneous Graph Contrastive Multi-view Learning\
 <u>Zehong Wang</u>, Qi Li, Donghua Yu, Xiaolong Han, Xiao-Zhi Gao, Shigen Shen. \

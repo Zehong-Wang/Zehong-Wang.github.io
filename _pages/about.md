@@ -55,13 +55,14 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 # Selected Publications [Full List](https://scholar.google.com/citations?user=-qXxOv0AAAAJ) 
 
-(\* indicates equal contribution. The last co-first author indicates my supervision.)
+(\* indicates equal contribution. The last co-first authorship indicates my supervision.)
 
 ## Tutorial
 
 - [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
 <u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.\
-<!-- [[website](https://sites.google.com/view/kdd25-gfm-tutorial)] [[extended survey](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)] -->
+[[website](https://sites.google.com/view/kdd25-gfm-tutorial)] 
+<!-- [[extended survey](https://arxiv.org/abs/2505.15116)] [[awesome list](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)] -->
 
 - [**KDD 25**] Graph Prompting for Graph Learning Models: Recent Advances and Future Directions\
 Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei, Cong Shen, Yanfang Ye, Chuxu Zhang, Jundong Li. 
@@ -74,7 +75,7 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 [[paper](https://arxiv.org/abs/2505.15116)] [[github](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 - LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
-Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, Weixiang Sun, Kaiwen Shi, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
+Yanfang Ye, Zheyuan Zhang*, Tianyi Ma*, <u>Zehong Wang*</u>, Yiyang Li*, Shifu Hou*, Weixiang Sun*, Kaiwen Shi*, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
 [[paper](https://arxiv.org/abs/2509.19580)]
 
 
@@ -82,11 +83,11 @@ Yanfang Ye, Zheyuan Zhang, Tianyi Ma, <u>Zehong Wang</u>, Yiyang Li, Shifu Hou, 
 
 
 - Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance\
-Jiachi Zhao*, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
+<u>Jiachi Zhao*</u>, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
 [[paper](http://arxiv.org/abs/2510.10402)] 
 
 - Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use\
-Yiyang Li*, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+<u>Yiyang Li*</u>, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://arxiv.org/abs/2510.15961)]
 
 
@@ -140,7 +141,7 @@ Tianyi Ma, Yiyue Qian, Zheyuan Zhang, <u>Zehong Wang</u>, Shinan Zhang, Chuxu Zh
 [[paper](https://arxiv.org/abs/2411.06070)] [[code](https://github.com/Zehong-Wang/GFT)]
 
 - [**KDD 24**] Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Pattern\
-Zheyuan Zhang\*, <u>Zehong Wang</u>\*, Shifu Hou, Evan Hall, Landon Bachman, Jasmine White, Vincent Galassi, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
+<u>Zheyuan Zhang*</u>, <u>Zehong Wang*</u>, Shifu Hou, Evan Hall, Landon Bachman, Jasmine White, Vincent Galassi, Nitesh V Chawla, Chuxu Zhang, Yanfang Ye.\
 [[paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)] [[code](https://github.com/JasonZhangzy1757/Diet-ODIN)]
 
 - [**IJCAI 24**] Subgraph Pooling: Tackling Negative Transfer on Graphs\

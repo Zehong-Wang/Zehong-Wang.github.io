@@ -75,7 +75,7 @@ Xingbo Fu, <u>Zehong Wang</u>, Zihan Chen, Jiazheng Li, Yaochen Zhu, Zhenyu Lei,
 [[paper](https://arxiv.org/abs/2505.15116)] [[github](https://github.com/Zehong-Wang/Awesome-Foundation-Models-on-Graphs)]
 
 - LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines\
-Yanfang Ye, Zheyuan Zhang*, Tianyi Ma*, <u>Zehong Wang*</u>, Yiyang Li*, Shifu Hou*, Weixiang Sun*, Kaiwen Shi*, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
+Yanfang Ye, <u>Zheyuan Zhang*</u>, <u>Tianyi Ma*</u>, <u>Zehong Wang*</u>, <u>Yiyang Li*</u>, <u>Shifu Hou*</u>, <u>Weixiang Sun*</u>, <u>Kaiwen Shi*</u>, Yijun Ma, Wei Song, Ahmed Abbasi, Ying Cheng, Jane Cleland-Huang, Steven Corcelli, Patricia Culligan, Robert Goulding, Ming Hu, Ting Hua, John Lalor, Fang Liu, Tengfei Luo, Ed Maginn, Nuno Moniz, Jason Rohr, Brett Savoie, Daniel Slate, Tom Stapleford, Matthew Webber, Olaf Wiest, Johnny Zhang, Nitesh Chawla.\
 [[paper](https://arxiv.org/abs/2509.19580)]
 
 

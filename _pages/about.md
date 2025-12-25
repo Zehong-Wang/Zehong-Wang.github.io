@@ -81,6 +81,9 @@ Yanfang Ye, <u>Zheyuan Zhang*</u>, <u>Tianyi Ma*</u>, <u>Zehong Wang*</u>, <u>Yi
 
 ## Preprint
 
+- Semantic Refinement with LLMs for Graph Representations\
+<u>Safal Thapaliya*</u>, <u>Zehong Wang*</u>, Jiazheng Li, Ziming Li, Yanfang Ye, Chuxu Zhang.\
+[[paper](https://arxiv.org/abs/2512.21106)] 
 
 - Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance\
 <u>Jiachi Zhao*</u>, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\

@@ -89,14 +89,14 @@ Yanfang Ye, <u>Zheyuan Zhang*</u>, <u>Tianyi Ma*</u>, <u>Zehong Wang*</u>, <u>Yi
 <u>Jiachi Zhao*</u>, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
 [[paper](http://arxiv.org/abs/2510.10402)] 
 
-- Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use\
-<u>Yiyang Li*</u>, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
-[[paper](https://arxiv.org/abs/2510.15961)]
-
 
 <!-- ## 2025 -->
 ## Conference & Journal
 
+
+- [**EACL 26 Findings**] Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use\
+<u>Yiyang Li*</u>, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\
+[[paper](https://arxiv.org/abs/2510.15961)] [[code]()]
 
 - [**NeurIPS 25**] Generative Graph Pattern Machine\
 <u>Zehong Wang</u>, Zheyuan Zhang, Tianyi Ma, Chuxu Zhang, Yanfang Ye.\

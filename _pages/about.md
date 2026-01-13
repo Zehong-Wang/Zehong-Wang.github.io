@@ -13,7 +13,7 @@ Specifically, the topics cover the following three aspects.
 
 - **Large Foundation Models**: Substructure Vocabulary ([ICML 25](https://arxiv.org/abs/2501.18739), [NeurIPS 25](https://arxiv.org/abs/2505.16130)), Data Synthesis ([NAACL 25](http://arxiv.org/abs/2412.10136)), Agent Collaboration ([NeurIPS 25](https://arxiv.org/abs/2505.15859)), RAG ([ACL 25](https://arxiv.org/abs/2412.15547))
 - **Graph Neural Networks**: Graph Foundation Model ([Survey](https://arxiv.org/abs/2505.15116), [NeurIPS 24](https://arxiv.org/abs/2411.06070), [ICML 25](https://arxiv.org/abs/2412.16441), [IJCAI 24](https://arxiv.org/abs/2402.08907), [WSDM 25](https://arxiv.org/abs/2412.03864)). 
-- **AI4Science** ([Survey](https://arxiv.org/abs/2509.19580)): Biology ([preprint](http://arxiv.org/abs/2510.10402)), Healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), Social Science ([ACL 25](https://arxiv.org/abs/2503.01900)). 
+- **AI4Science** ([Survey](https://arxiv.org/abs/2509.19580)): Biology ([WWW](http://arxiv.org/abs/2510.10402)), Healthcare ([KDD 24](https://dl.acm.org/doi/abs/10.1145/3637528.3671587), [KDD 25](https://arxiv.org/abs/2412.08847)), Social Science ([ACL 25](https://arxiv.org/abs/2503.01900)). 
 
 <!-- - **Next-Gen Model Architecture - Beyond Message Passing**: learning from substructures ([ICML 25](https://arxiv.org/abs/2501.18739)), generative modeling ([NeurIPS 25](https://arxiv.org/abs/2505.16130)). -->
 <!-- - **Next-Gen Paradigm - Graph Foundation Model** ([Survey](https://arxiv.org/abs/2505.15116)): transferable patterns ([NeurIPS 24](https://arxiv.org/abs/2411.06070)), structural heterogeneity ([IJCAI 24](https://arxiv.org/abs/2402.08907)), feature heterogeneity ([NAACL 25](http://arxiv.org/abs/2412.10136)), task heterogeneity ([ICML 25](https://arxiv.org/abs/2412.16441)), efficiency inference ([WSDM 25](https://arxiv.org/abs/2412.03864)). 
@@ -25,30 +25,31 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 # News
 
-* [2026.01] One paper ([LAMI](https://arxiv.org/abs/2510.15961)) was accepted by **EACL 2026**
+* [2026.01] One paper ([TreeDiff](http://arxiv.org/abs/2510.10402)) accepted by **WWW 2026**
+* [2026.01] One paper ([LAMI](https://arxiv.org/abs/2510.15961)) accepted by **EACL 2026**
 * [2025.09] Our **survey** on [LLM for cross-disciplinary research](https://arxiv.org/abs/2509.19580) is released.
-* [2025.09] Two papers ([G2PM](https://arxiv.org/abs/2505.16130), [AutoData](https://arxiv.org/abs/2505.15859)) were accepted by **NeurIPS 2025**. 
+* [2025.09] Two papers ([G2PM](https://arxiv.org/abs/2505.16130), [AutoData](https://arxiv.org/abs/2505.15859)) accepted by **NeurIPS 2025**. 
 <!-- * : (1) We developed a Transformer-based graph pre-training method using substructures, enabling scalable learning ([G2PM](https://arxiv.org/abs/2505.16130)). (2) We developed [AutoData](https://arxiv.org/abs/2505.15859) that uses hypergraphs for multi-agent collaboration, achieving automatic data collection.  -->
-<!-- * [2025.08] One paper was accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)! -->
+<!-- * [2025.08] One paper accepted by **ICDM 25**. Congratulations to [Tianyi](https://tianyi-billy-ma.github.io/)! -->
 * [2025.05] I will join Amazon as Applied Scientist Intern working with Prof. [Rui Song](https://song-ray.github.io/), Prof. [Sheng Wang](https://homes.cs.washington.edu/~swang/) and Dr. [Qingkai Zeng](https://qingkaizeng.github.io/).
 * [2025.05] Our **survey** on [graph foundation model](https://arxiv.org/abs/2505.15116) is released.
-* [2025.05] Two papers ([NGQA](https://arxiv.org/abs/2412.15547), [LLM-HetGDT](https://arxiv.org/abs/2503.01900)) were accepted by **ACL 2025**. 
+* [2025.05] Two papers ([NGQA](https://arxiv.org/abs/2412.15547), [LLM-HetGDT](https://arxiv.org/abs/2503.01900)) accepted by **ACL 2025**. 
 <!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/) and [Tianyi](https://tianyi-billy-ma.github.io/)! -->
-* [2025.05] Two tutorials were accepted by **KDD 25**
+* [2025.05] Two tutorials accepted by **KDD 25**
 <!-- * ---one on [graph foundation models](https://sites.google.com/view/kdd25-gfm-tutorial) and the other on graph prompt learning. Looking forward to seeing you in Toronto!  -->
-* [2025.05] Two papers ([GPM](https://arxiv.org/abs/2501.18739), [GIT](https://arxiv.org/abs/2412.16441)) were accepted by **ICML 2025**. 
+* [2025.05] Two papers ([GPM](https://arxiv.org/abs/2501.18739), [GIT](https://arxiv.org/abs/2412.16441)) accepted by **ICML 2025**. 
 <!-- * : (1) We developed a theory-guided task alignment on graphs via task-trees ([GIT](https://arxiv.org/abs/2412.16441)). (2) We developed [GPM](https://arxiv.org/abs/2501.18739), a novel Transformer-based graph representation learning framework that totally goes beyond message passing.  -->
-* [2025.01] One paper ([TANS](http://arxiv.org/abs/2412.10136)) was accepted by **NAACL 2025**. 
+* [2025.01] One paper ([TANS](http://arxiv.org/abs/2412.10136)) accepted by **NAACL 2025**. 
 <!-- * We developed [TANS](http://arxiv.org/abs/2412.10136) to synthesize textual node descriptions on graphs.  -->
-* [2024.11] One paper ([MOPI-HFRS](https://arxiv.org/abs/2412.08847)) was accepted by **KDD 2025**. 
+* [2024.11] One paper ([MOPI-HFRS](https://arxiv.org/abs/2412.08847)) accepted by **KDD 2025**. 
 <!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)! -->
-* [2024.10] One paper ([SimMLP](https://arxiv.org/abs/2412.03864)) was accepted by **WSDM 2025**. 
+* [2024.10] One paper ([SimMLP](https://arxiv.org/abs/2412.03864)) accepted by **WSDM 2025**. 
 <!-- * We developed [SimMLP](https://arxiv.org/abs/2412.03864), an efficient inference method on graphs!  -->
-* [2024.09] One paper ([GFT](https://arxiv.org/abs/2411.06070)) was accepted by **NeurIPS 2024**. 
+* [2024.09] One paper ([GFT](https://arxiv.org/abs/2411.06070)) accepted by **NeurIPS 2024**. 
 <!-- * We developed a transferable, cross-domain, cross-task graph foundation model [GFT](https://arxiv.org/abs/2411.06070). -->
-* [2024.05] One paper ([Diet-ODIN](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)) was accepted by **KDD 2024**. 
+* [2024.05] One paper ([Diet-ODIN](https://dl.acm.org/doi/abs/10.1145/3637528.3671587)) accepted by **KDD 2024**. 
 <!-- * Congratulations to [Zheyuan](https://jasonzhangzy1757.github.io/)! -->
-* [2024.04] One paper ([Subgraph Pooling](https://arxiv.org/abs/2402.08907)) was accepted by **IJCAI 2024**. 
+* [2024.04] One paper ([Subgraph Pooling](https://arxiv.org/abs/2402.08907)) accepted by **IJCAI 2024**. 
 <!-- * We analyzed the impact of structural differences on graph transfer learning ([link](https://arxiv.org/abs/2402.08907)).  -->
 * [2024.03] Receive the Travel Award Grand from SDM 2024. Thanks SDM!
 
@@ -86,14 +87,14 @@ Yanfang Ye, <u>Zheyuan Zhang*</u>, <u>Tianyi Ma*</u>, <u>Zehong Wang*</u>, <u>Yi
 <u>Safal Thapaliya*</u>, <u>Zehong Wang*</u>, Jiazheng Li, Ziming Li, Yanfang Ye, Chuxu Zhang.\
 [[paper](https://arxiv.org/abs/2512.21106)] 
 
-- Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance\
-<u>Jiachi Zhao*</u>, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
-[[paper](http://arxiv.org/abs/2510.10402)] 
-
 
 <!-- ## 2025 -->
 ## Conference & Journal
 
+
+- [**WWW 26**] Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance\
+<u>Jiachi Zhao*</u>, <u>Zehong Wang*</u>, Yamei Liao, Chuxu Zhang, Yanfang Ye.\
+[[paper](http://arxiv.org/abs/2510.10402)] [[code]()]
 
 - [**EACL 26 Findings**] Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use\
 <u>Yiyang Li*</u>, <u>Zehong Wang*</u>, Zhengqing Yuan, Zheyuan Zhang, Keerthiram Murugesan, Chuxu Zhang, Yanfang Ye.\

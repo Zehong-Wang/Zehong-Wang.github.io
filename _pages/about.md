@@ -59,7 +59,7 @@ Feel free to reach out me (*zwang43 [AT] nd [DOT] edu*) if you have any question
 
 (\* indicates equal contribution. The last co-first authorship indicates my supervision.)
 
-## Tutorial
+## Tutorial 
 
 - [**KDD 25**] Graph Foundation Models: Challenges, Methods, and Open Questions\
 <u>Zehong Wang</u>, Chuxu Zhang, Jundong Li, Nitesh V Chawla, Yanfang Ye.\

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zehong-wang.github.io/homepage/sitemap.xml

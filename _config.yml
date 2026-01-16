@@ -13,12 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: "Zehong Wang - Academic Homepage"
+description: "Ph.D. Candidate in Computer Science at University of Notre Dame. Research in AI, machine learning, agentic AI, foundation models, and graph learning."
+author: "Zehong Wang"
+url: "https://zehong-wang.github.io"
 baseurl: "/homepage" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-email-protect
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

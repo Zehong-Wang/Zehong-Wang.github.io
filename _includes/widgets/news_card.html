@@ -1,9 +1,11 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign all_news = site.news | sort: "date" | reverse -%}
+{% assign visible_news = all_news | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign remaining_news = all_news | slice: include.limit, all_news.size | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
     <div class="px-3 pb-1 small">
-        {% for year in news_by_year %}
+        {% for year in visible_news %}
         <div class="media py-1 {% if not_first -%}border-top border-gray{%- endif %}">
             {% assign not_first = true %}
             <div class="mr-3 text-muted my-1">{{ year.name }}</div>
@@ -17,5 +19,52 @@
             </div>
         </div>
         {% endfor %}
+        
+        {% if remaining_news.size > 0 %}
+        <div class="collapse" id="moreNews">
+            {% for year in remaining_news %}
+            <div class="media py-1 border-top border-gray">
+                <div class="mr-3 text-muted my-1">{{ year.name }}</div>
+                <div class="media-body">
+                    {% for item in year.items %}
+                    <div class="my-1 d-flex">
+                        <div>{{ item.title }}</div>
+                        <div class="ml-auto mt-auto text-muted no-break"><i>{{ item.date | date: "%b %d" }}</i></div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
     </div>
+    
+    {% if remaining_news.size > 0 %}
+    <div class="px-3 pb-3 pt-2 text-center">
+        <a class="btn btn-sm btn-outline-secondary collapsed news-toggle-btn" data-toggle="collapse" href="#moreNews" role="button" aria-expanded="false" aria-controls="moreNews">
+            <span class="if-collapsed"><i class="fas fa-chevron-down mr-1"></i> Show {{ remaining_news | map: "items" | map: "size" | sum }} more</span>
+            <span class="if-not-collapsed"><i class="fas fa-chevron-up mr-1"></i> Show less</span>
+        </a>
+    </div>
+    <style>
+        .news-toggle-btn {
+            border-radius: 20px;
+            font-size: 0.85rem;
+            padding: 0.375rem 1rem;
+            transition: all 0.3s ease;
+        }
+        .news-toggle-btn:hover {
+            background-color: #6c757d;
+            color: white;
+            border-color: #6c757d;
+        }
+        a[data-toggle="collapse"]:not(.collapsed) .if-collapsed { display: none; }
+        a[data-toggle="collapse"]:not(.collapsed) .if-not-collapsed { display: inline; }
+        a[data-toggle="collapse"].collapsed .if-collapsed { display: inline; }
+        a[data-toggle="collapse"].collapsed .if-not-collapsed { display: none; }
+        #moreNews {
+            transition: height 0.35s ease;
+        }
+    </style>
+    {% endif %}
 </div>

@@ -5,10 +5,10 @@ $(function () {
         effect: 'fadeIn',
         effectTime: 300,
         placeholder: "",
-        onError: function(element) {
+        onError: function (element) {
             console.log('[lazyload] Error loading ' + element.data('src'));
         },
-        afterLoad: function(element) {
+        afterLoad: function (element) {
             if (element.is('img')) {
                 // remove background-image style
                 element.css('background-image', 'none');
@@ -21,8 +21,8 @@ $(function () {
         }
     }
 
-    $('img.lazy, div.lazy:not(.always-load)').Lazy({visibleOnly: true, ...lazyLoadOptions});
-    $('div.lazy.always-load').Lazy({visibleOnly: false, ...lazyLoadOptions});
+    $('img.lazy, div.lazy:not(.always-load)').Lazy({ visibleOnly: true, ...lazyLoadOptions });
+    $('div.lazy.always-load').Lazy({ visibleOnly: false, ...lazyLoadOptions });
 
     $('[data-toggle="tooltip"]').tooltip()
 
@@ -40,3 +40,22 @@ $(function () {
         $grid.masonry('layout');
     });
 })
+
+// Toggle abstract/tldr for publications
+function toggleAbstract(event, itemId) {
+    event.preventDefault();
+    var tldrElement = $('.pub-tldr-' + itemId);
+    var abstractElement = $('.pub-abstract-' + itemId);
+
+    if (tldrElement.is(':visible')) {
+        tldrElement.slideUp(300, function () {
+            $(this).hide();
+            abstractElement.hide().fadeIn(400).css('display', 'block');
+        });
+    } else {
+        abstractElement.slideUp(300, function () {
+            $(this).hide();
+            tldrElement.hide().fadeIn(400).css('display', 'block');
+        });
+    }
+}

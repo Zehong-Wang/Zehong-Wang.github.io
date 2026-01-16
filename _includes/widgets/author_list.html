@@ -7,7 +7,7 @@
     {%- assign last_2chars = _key | slice: -2, 2%}
     {%- if last_2chars == "*#" or last_2chars == "#*" -%}
         {%- assign key = _key | replace: "#*", "" | replace: "*#", "" -%}
-        {%- assign mark = "*<sup>#</sup>" -%}
+        {%- assign mark = "*<sup><i class='fas fa-envelope' style='font-size:0.8em;'></i></sup>" -%}
         {%- assign has_eq_contrib = true -%}
         {%- assign has_corresponding = true -%}
     {%- elsif last_char == "*" -%}
@@ -16,7 +16,7 @@
         {%- assign has_eq_contrib = true -%}
     {%- elsif last_char == "#" -%}
         {%- assign key = _key | split: "#" | first -%}
-        {%- assign mark = '<sup>#</sup>' -%}
+        {%- assign mark = '<sup><i class="fas fa-envelope" style="font-size:0.8em;"></i></sup>' -%}
         {%- assign has_corresponding = true -%}
     {%- else -%}
         {%- assign key = _key -%}
@@ -54,7 +54,7 @@
     {%- endif -%}
     {%- if has_corresponding -%}
         {%- if has_eq_contrib -%}, {% endif -%}
-        <sup>#</sup> <i> corresponding author</i>
+        <sup><i class="fas fa-envelope" style="font-size:0.8em;"></i></sup> <i> corresponding author</i>
     {%- endif -%}
 )</mark>
 {%- endif -%}

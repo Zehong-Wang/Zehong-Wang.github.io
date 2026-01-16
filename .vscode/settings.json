@@ -1,0 +1,6 @@
+{
+    "markdown.preview.doubleClickToSwitchToEditor": false,
+    "workbench.editorAssociations": {
+        "*.md": "default"
+    }
+}

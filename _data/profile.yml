@@ -1,61 +1,116 @@
-primary_name: "Your Name"
+primary_name: "Zehong Wang"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Zehong Wang"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: Ph.D. Candidate
+- name: Computer Science and Engineering
+- name: University of Notre Dame
+  logo: /assets/images/badges/notre_dame_logo.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "zwang43@nd.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+gscholar: qXxOv0AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Zehong-Wang
+# twitter: your_twitter_id  # Do not include the '@' symbol
+wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> when adding my wechat. Thanks!
+linkedin: zehong-wang-745b02286
+orcid: 0000-0002-7670-6777
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at <a href="https://www.nd.edu/">University of Notre Dame</a>. I am supervised by <a href="http://yes-lab.org/">Prof. Yanfang (Fanny) Ye</a>. 
+    My research centers on AI, machine learning, data science, and their applications to both societal challenges and scientific discovery. Recently, I have focused on developing agentic AI and world models, with a specific on planning and memory.
+    I apply these advances across multiple domains, including healthcare, information systems, and biology. I aim to answer the question: 
+    <i>how to acquire, represent, and utilize world knowledge in ways that support robust decision-making in agentic systems and scientific discovery?</i>
   </p>
-  <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
-  </p>
+  <ul>
+    <li>
+      <strong>Agentic AI:</strong> 
+      planning (<a href="https://arxiv.org/abs/2601.02598">arXiv</a>, <a href="https://arxiv.org/abs/2510.10402">WWW 26</a>), 
+      memory (<a href="https://arxiv.org/abs/2512.21106">arXiv</a>), 
+      retrieval-augmented reasoning (<a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671587">KDD 24</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3690624.3709382">KDD 25</a>, <a href="https://aclanthology.org/2025.acl-long.296/">ACL 25</a>), 
+      agent collaboration (<a href="https://arxiv.org/abs/2510.05445">arXiv</a>), 
+      self-evolving (<a href="https://arxiv.org/abs/2512.21106">arXiv</a>).
+    </li>
+    
+    <li>
+      <strong>Foundation Models:</strong> 
+      structural vocabulary (<a href="https://openreview.net/forum?id=tdMWo3jB21">NeurIPS 25</a>, <a href="https://openreview.net/forum?id=bKkCyPzD5P">ICML 25</a>), 
+      foundation model on graphs (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://openreview.net/forum?id=0MXzbAv8xy">NeurIPS 24</a>, <a href="https://openreview.net/forum?id=BSqf2k01ag">ICML 25</a>), 
+      multimodality (<a href="https://arxiv.org/abs/2510.15961">EACL 26</a>, <a href="https://aclanthology.org/2025.naacl-long.65/">NAACL 25</a>), 
+      model architecture search (<a href="https://ieeexplore.ieee.org/abstract/document/10384749">TII</a>).
+    </li>
+    
+    <li>
+      <strong>Graph Learning:</strong> 
+      learning dynamics (<a href="https://arxiv.org/abs/2402.08907">IJCAI 24</a>), 
+      self-supervised learning (<a href="https://dl.acm.org/doi/abs/10.1145/3701551.3703550">WSDM 25</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10507017">TNNLS</a>), 
+      heterogeneous graph (<a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16?__cf_chl_tk=Ap6bf96EVaBqz7mUpyuGSq.LqYBu39Wm0N3xwJqbcUM-1768549398-1.0.1.1-0nd._wRGPxfxKc8ty2gquO7BzY9J10eqvTgjUtNDmAk">SDM 23</a>), 
+      hyper-graph (<a href="https://arxiv.org/abs/2510.10402">ICDM 25</a>).
+    </li>
+    
+    <li><strong>AI for Science and Social Good:</strong> drug discovery (<a href="https://arxiv.org/abs/2510.10402">WWW 26</a>), research (<a href="https://arxiv.org/abs/2509.19580">Survey</a>), drug trafficking detection (<a href="https://arxiv.org/abs/2503.01900">ACL 25</a>).</li>
+  </ul>
 
-portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/Photo-Zehong-1.png
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: University of Notre Dame
+  logo: /assets/images/badges/notre_dame_logo.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    Department of Computer Science and Engineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-
-# experience:
+  date: Aug. 2023 - present
 # - name: Peking University
 #   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
+#   position: B.S. in Computer Science
 #   date: Sep. 2019 - Jul. 2021
 
+experience:
+- name: Amazon
+  logo: /assets/images/badges/amazon_logo.jpg
+  position: Applied Scientist Intern (Part-Time)
+  date: Sept. 2025 - Oct. 2025
+- name: Amazon
+  logo: /assets/images/badges/amazon_logo.jpg
+  position: Applied Scientist Intern
+  date: May. 2025 - Aug. 2025
+
 awards:
-- name: Award Name 2
+- name: NSF Access Grant
+  date: 2025
+- name: NeurIPS Scholar Award
+  date: 2025
+- name: ICML Scholar Award
+  date: 2025
+- name: Notre Dame Graduate School Conference Presentation Grant
+  date: 2025
+- name: WSDM Student Travel Award
+  date: 2025
+- name: SDM Doctoral Forum Travel Award
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+
+services: 
+- name: Reviewer, NeurIPS
+  date: 2024, 2025
+- name: Reviewer, ICLR
+  date: 2024, 2025, 2026
+- name: Reviewer, ICML
+  date: 2024, 2025
+- name: Reviewer, KDD
+  date: 2025
+- name: Reviewer, ARR (ACL, EMNLP, NAACL)
+  date: 2025
+- name: Reviewer, AISTATS
+  date: 2025, 2026
+- name: Reviewer, AAAI
+  date: 2024, 2025, 2026
+- name: Reviewer, ICML
+  date: 2024, 2025

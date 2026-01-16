@@ -12,7 +12,31 @@
             <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
             <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
             <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
-            <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
+            
+            {% if item.tldr and item.abstract %}
+            <div class="pub-content-wrapper mt-2">
+                <div class="pub-tldr-{{ item.id | slugify }} pub-content-box">
+                    <div class="pub-label"><i class="fas fa-bolt mr-1"></i>TL;DR</div>
+                    <p class="mb-0 small">{{ item.tldr }}
+                        <a href="#" class="pub-toggle-btn" onclick="toggleAbstract(event, '{{ item.id | slugify }}'); return false;">
+                            <i class="fas fa-chevron-down mr-1"></i>Read full abstract
+                        </a>
+                    </p>
+                </div>
+                <div class="pub-abstract-{{ item.id | slugify }} pub-content-box" style="display: none;">
+                    <div class="pub-label"><i class="fas fa-align-left mr-1"></i>Abstract</div>
+                    <p class="mb-0 small">{{ item.abstract }}
+                        <a href="#" class="pub-toggle-btn" onclick="toggleAbstract(event, '{{ item.id | slugify }}'); return false;">
+                            <i class="fas fa-chevron-up mr-1"></i>Show less
+                        </a>
+                    </p>
+                </div>
+            </div>
+            {% elsif item.abstract %}
+            <p class="mt-1 mb-0 small text-muted">{{ item.abstract }}</p>
+            {% elsif item.tldr %}
+            <p class="mt-1 mb-0 small text-muted"><strong>TL;DR:</strong> {{ item.tldr }}</p>
+            {% endif %}
             
             <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                 {% for link in item.links %}
@@ -36,7 +60,31 @@
                 <h5 class="mt-0 mb-1 font-weight-normal">{{ item.title }}</h5>
                 <p class="mt-0 mb-0 small">{% include widgets/author_list.html authors=item.authors %}</p>
                 <p class="mt-0 mb-0 small">{{item.pub_pre}}<i>{{ item.pub }}</i>{{ item.pub_post }} {{ item.pub_date }} {{ item.pub_last }} <span data-semantic-scholar-id="{{ item.semantic_scholar_id }}"></span></p>
-                <p class="mt-0 mb-0 small text-muted">{{ item.abstract }}</p>
+                
+                {% if item.tldr and item.abstract %}
+                <div class="pub-content-wrapper mt-2">
+                    <div class="pub-tldr-{{ item.id | slugify }} pub-content-box">
+                        <div class="pub-label"><i class="fas fa-bolt mr-1"></i>TL;DR</div>
+                        <p class="mb-0 small">{{ item.tldr }}
+                            <a href="#" class="pub-toggle-btn" onclick="toggleAbstract(event, '{{ item.id | slugify }}'); return false;">
+                                <i class="fas fa-chevron-down mr-1"></i>Read full abstract
+                            </a>
+                        </p>
+                    </div>
+                    <div class="pub-abstract-{{ item.id | slugify }} pub-content-box" style="display: none;">
+                        <div class="pub-label"><i class="fas fa-align-left mr-1"></i>Abstract</div>
+                        <p class="mb-0 small">{{ item.abstract }}
+                            <a href="#" class="pub-toggle-btn" onclick="toggleAbstract(event, '{{ item.id | slugify }}'); return false;">
+                                <i class="fas fa-chevron-up mr-1"></i>Show less
+                            </a>
+                        </p>
+                    </div>
+                </div>
+                {% elsif item.abstract %}
+                <p class="mt-1 mb-0 small text-muted">{{ item.abstract }}</p>
+                {% elsif item.tldr %}
+                <p class="mt-1 mb-0 small text-muted"><strong>TL;DR:</strong> {{ item.tldr }}</p>
+                {% endif %}
                 
                 <p class="small pb-0 mb-0 lh-125 text-muted abstract-links">
                     {% for link in item.links %}

@@ -17,7 +17,7 @@ title: "Zehong Wang - Academic Homepage"
 description: "Ph.D. Candidate in Computer Science at University of Notre Dame. Research in AI, machine learning, agentic AI, foundation models, and graph learning."
 author: "Zehong Wang"
 url: "https://zehong-wang.github.io"
-baseurl: "/homepage" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 # Build settings
 markdown: kramdown

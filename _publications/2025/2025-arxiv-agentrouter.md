@@ -2,6 +2,7 @@
 title:          "AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering"
 date:           2025-10-01 00:01:00 +0800
 selected:       false
+type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2025"
 # tldr: >-

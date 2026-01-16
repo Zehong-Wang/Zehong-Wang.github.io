@@ -1,7 +1,7 @@
 ---
 title:          "Can LLMs Convert Graphs to Text-Attributed Graphs?"
 date:           2025-01-15 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)"
 pub_date:       "2025"
 # tldr: >-

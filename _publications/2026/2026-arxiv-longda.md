@@ -2,6 +2,7 @@
 title:          "LongDA: Benchmarking LLM Agents for Long-Document Data Analysis"
 date:           2026-01-05 00:01:00 +0800
 selected:       false
+type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
 # tldr: >-

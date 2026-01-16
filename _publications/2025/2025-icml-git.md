@@ -1,6 +1,6 @@
 ---
 title:          "Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees"
-date:           2025-05-20 00:02:00 +0800
+date:           2025-05-20 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2025"

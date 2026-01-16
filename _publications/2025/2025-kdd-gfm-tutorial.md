@@ -1,7 +1,8 @@
 ---
 title:          "Graph Foundation Models: Challenges, Methods, and Open Questions"
 date:           2025-05-15 00:01:00 +0800
-selected:       false
+selected:       true
+type:           tutorial
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Tutorial</span>'

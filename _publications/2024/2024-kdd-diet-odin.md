@@ -1,7 +1,7 @@
 ---
 title:          "Diet-ODIN: A Novel Framework for Opioid Misuse Detection with Interpretable Dietary Patterns"
 date:           2024-05-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2024"
 # tldr: >-

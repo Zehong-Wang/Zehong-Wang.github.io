@@ -2,6 +2,7 @@
 title:          "Graph Foundation Models: A Comprehensive Survey"
 date:           2025-05-05 00:01:00 +0800
 selected:       true
+type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2025"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'

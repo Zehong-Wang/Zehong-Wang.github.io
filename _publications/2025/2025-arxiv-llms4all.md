@@ -4,6 +4,7 @@ date:           2025-09-15 00:01:00 +0800
 selected:       true
 pub:            "arXiv preprint"
 pub_date:       "2025"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'
 # tldr: >-
 #   A comprehensive review of large language models for cross-disciplinary research and applications across academic fields.
 # # abstract: >-

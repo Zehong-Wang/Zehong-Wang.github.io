@@ -4,6 +4,7 @@ date:           2025-05-05 00:01:00 +0800
 selected:       true
 pub:            "arXiv preprint"
 pub_date:       "2025"
+pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'
 # tldr: >-
 #   A comprehensive survey on graph foundation models covering architectures, training methods, and applications.
 # # abstract: >-

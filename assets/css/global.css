@@ -101,6 +101,19 @@ div.lazy {
     font-family: Source Code Pro, monospace;
 }
 
+/* Publication info styles - larger font size */
+.pub-info {
+    font-size: 0.95rem !important;
+}
+
+.pub-links {
+    font-size: 0.9rem !important;
+}
+
+.pub-links a {
+    font-size: 0.9rem;
+}
+
 /* Publication toggle styles */
 .pub-content-wrapper {
     margin-top: 0.4rem;

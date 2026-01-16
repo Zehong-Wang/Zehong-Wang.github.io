@@ -22,6 +22,6 @@ authors:
   - Chuxu Zhang
   - Jundong Li
 links:
-  Paper: https://www.xingbofu.com/tutorials/kdd25-graph-prompting
-  Website: https://dl.acm.org/doi/10.1145/3711896.3736566
+  Paper: https://dl.acm.org/doi/10.1145/3711896.3736566 
+  Website: https://www.xingbofu.com/tutorials/kdd25-graph-prompting
 ---

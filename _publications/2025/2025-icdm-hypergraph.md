@@ -9,7 +9,7 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">
 #   We propose an adaptive broadcasting and receiving mechanism for hypergraph representation learning.
 # # abstract: >-
 #   This paper presents a novel hypergraph representation learning approach with adaptive broadcasting and receiving mechanisms. Our method captures complex high-order relationships in hypergraphs more effectively by dynamically adjusting information flow based on hyperedge structure and node importance.
-cover:          /assets/images/covers/2025-icdm-hypergraph.png
+# cover:          /assets/images/covers/2025-icdm-hypergraph.png
 authors:
   - Tianyi Ma
   - Yiyun Qian

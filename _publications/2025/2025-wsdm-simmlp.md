@@ -1,6 +1,6 @@
 ---
 title:          "Training MLPs on Graphs Without Supervision"
-date:           2024-10-15 00:01:00 +0800
+date:           2024-3-15 00:01:00 +0800
 selected:       false
 pub:            "ACM International Conference on Web Search and Data Mining (WSDM)"
 pub_date:       "2025"

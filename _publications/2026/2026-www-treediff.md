@@ -1,5 +1,5 @@
 ---
-title:          "Controllable Graph Generation via Inference-Time Tree Search"
+title:          "Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance"
 date:           2026-01-13 00:01:00 +0800
 selected:       true
 pub:            "The Web Conference (WWW)"

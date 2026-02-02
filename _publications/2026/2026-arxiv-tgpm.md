@@ -10,8 +10,8 @@ pub_date:       "2026"
 # abstract: >-
 cover:          /assets/images/covers/2026-arxiv-tgpm.png
 authors:
-  - <b>Zehong Wang</b>
-  - Yijun Ma
+  - Yijun Ma*
+  - <b>Zehong Wang*</b>
   - Weixiang Sun
   - Yanfang Ye
 links:

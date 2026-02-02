@@ -11,7 +11,7 @@ pub_date:       "2026"
 cover:          /assets/images/covers/2026-arxiv-tgpm.png
 authors:
   - Yijun Ma*
-  - <b>Zehong Wang*</b>
+  - <b>Zehong Wang*</b>#
   - Weixiang Sun
   - Yanfang Ye
 links:

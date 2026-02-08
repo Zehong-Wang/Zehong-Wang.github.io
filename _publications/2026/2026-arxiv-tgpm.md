@@ -1,7 +1,7 @@
 ---
 title:          "Temporal Graph Pattern Machine"
 date:           2026-01-29 00:03:00 +0800
-selected:       false
+selected:       true
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

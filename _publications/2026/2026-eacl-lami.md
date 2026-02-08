@@ -1,7 +1,7 @@
 ---
 title:          "Interpretable Graph-Language Modeling for Detecting Youth Illicit Drug Use"
 date:           2026-01-04 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Conference of the European Chapter of the Association for Computational Linguistics (EACL)"
 pub_date:       "2026"
 # tldr: >-

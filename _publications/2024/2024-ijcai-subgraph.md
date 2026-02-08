@@ -1,7 +1,7 @@
 ---
 title:          "Subgraph Pooling: Tackling Negative Transfer on Graphs"
 date:           2024-04-15 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "International Joint Conference on Artificial Intelligence (IJCAI)"
 pub_date:       "2024"
 # tldr: >-

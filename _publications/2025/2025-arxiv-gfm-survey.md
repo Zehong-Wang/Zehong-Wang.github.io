@@ -12,14 +12,14 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 #   This survey provides a comprehensive overview of graph foundation models, systematically reviewing the latest developments in pre-training strategies, model architectures, transfer learning techniques, and real-world applications. We discuss key challenges in building general-purpose graph AI and outline promising future research directions for the field.
 cover:          /assets/images/covers/2025-arxiv-gfm-survey.png
 authors:
-  - <b>Zehong Wang</b>
-  - Zheyuan Liu
-  - Tianyi Ma
-  - Jiazheng Li
-  - Zheyuan Zhang
-  - Xingbo Fu
-  - Yiyang Li
-  - Zhengqing Yuan
+  - <b>Zehong Wang</b>*#
+  - Zheyuan Liu*
+  - Tianyi Ma*
+  - Jiazheng Li*
+  - Zheyuan Zhang*
+  - Xingbo Fu*
+  - Yiyang Li*
+  - Zhengqing Yuan*
   - Wei Song
   - Yijun Ma
   - Qingkai Zeng

@@ -13,14 +13,14 @@ pub_last:       ' <span class="badge badge-pill badge-publication badge-primary"
 cover:          /assets/images/covers/2025-arxiv-llms4all.png
 authors:
   - Yanfang Ye
-  - Zheyuan Zhang
-  - Tianyi Ma
-  - <b>Zehong Wang</b>
-  - Yiyang Li
-  - Shifu Hou
-  - Weixiang Sun
-  - Kaiwen Shi
-  - Yijun Ma
+  - Zheyuan Zhang*
+  - Tianyi Ma*
+  - <b>Zehong Wang*</b>
+  - Yiyang Li*
+  - Shifu Hou*
+  - Weixiang Sun*
+  - Kaiwen Shi*
+  - Yijun Ma*
   - Wei Song
   - Ahmed Abbasi
   - Ying Cheng

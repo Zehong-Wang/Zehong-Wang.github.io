@@ -10,9 +10,9 @@ pub_date:       "2026"
 # abstract: >-
 cover:          /assets/images/covers/2026-arxiv-molfield.png
 authors:
-  - <b>Zehong Wang</b>
-  - Xiaolong Han
-  - Qi Yang
+  - <b>Zehong Wang</b>*
+  - Xiaolong Han*
+  - Qi Yang*
   - Xiangru Tang
   - Fang Wu
   - Xiaoguang Guo

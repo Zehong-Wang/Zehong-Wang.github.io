@@ -26,36 +26,25 @@ short_bio: >-
     I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at <a href="https://www.nd.edu/">University of Notre Dame</a> advised by <a href="http://yes-lab.org/">Prof. Yanfang (Fanny) Ye</a>. 
     My research centers on AI, machine learning, data science, and their applications to both societal challenges and scientific discovery. 
     I apply these advances across multiple domains, including healthcare, information systems, and biology. 
-    Recently, I have focused on developing agentic AI and world models, with a specific on planning and memory.
-    I aim to answer the question: <i>how to acquire, represent, and utilize world knowledge in ways that support robust decision-making in agentic systems and scientific discovery?</i>
+    Recently, I have focused on developing scientific foundation models and agents to facilitate scientific discovery, with a particular emphasis on drug discovery and AI scientists.
   </p>
   <ul>
     <li>
-      <strong>Agentic AI:</strong> 
-      planning (<a href="https://arxiv.org/abs/2601.02598">arXiv</a>, <a href="https://arxiv.org/abs/2510.10402">WWW 26</a>), 
-      memory (<a href="https://arxiv.org/abs/2512.21106">arXiv</a>), 
-      retrieval-augmented reasoning (<a href="https://dl.acm.org/doi/abs/10.1145/3637528.3671587">KDD 24</a>, <a href="https://dl.acm.org/doi/abs/10.1145/3690624.3709382">KDD 25</a>, <a href="https://aclanthology.org/2025.acl-long.296/">ACL 25</a>), 
-      agent collaboration (<a href="https://arxiv.org/abs/2505.15859">NeurIPS 25</a>, <a href="https://arxiv.org/abs/2510.05445">arXiv</a>), 
-      self-evolving (<a href="https://arxiv.org/abs/2512.21106">arXiv</a>).
+      <strong>Essence of Agentic AI:</strong>
+      planning, memory, multimodality, RAG, tool usage, agent collaboration, self-evolving, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.02598">LongDA</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>, <a href="https://arxiv.org/abs/2510.15961">LAMI</a>, <a href="https://arxiv.org/abs/2601.22384">GSubstrate</a>).
     </li>
-    
+
+
     <li>
-      <strong>Foundation Models:</strong> 
-      structural vocabulary (<a href="https://openreview.net/forum?id=tdMWo3jB21">NeurIPS 25</a>, <a href="https://openreview.net/forum?id=bKkCyPzD5P">ICML 25</a>), 
-      foundation model on graphs (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://openreview.net/forum?id=0MXzbAv8xy">NeurIPS 24</a>, <a href="https://openreview.net/forum?id=BSqf2k01ag">ICML 25</a>), 
-      multimodality (<a href="https://arxiv.org/abs/2510.15961">EACL 26</a>, <a href="https://aclanthology.org/2025.naacl-long.65/">NAACL 25</a>), 
-      model architecture search (<a href="https://ieeexplore.ieee.org/abstract/document/10384749">TII</a>).
+      <strong>Essence of Graph Learning:</strong>
+      graph foundation model, graph pattern machine, self-supervised learning, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2412.16441">GIT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>).
     </li>
     
+        
     <li>
-      <strong>Graph Learning:</strong> 
-      learning dynamics (<a href="https://arxiv.org/abs/2402.08907">IJCAI 24</a>), 
-      self-supervised learning (<a href="https://dl.acm.org/doi/abs/10.1145/3701551.3703550">WSDM 25</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10507017">TNNLS</a>), 
-      heterogeneous graph (<a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch16?__cf_chl_tk=Ap6bf96EVaBqz7mUpyuGSq.LqYBu39Wm0N3xwJqbcUM-1768549398-1.0.1.1-0nd._wRGPxfxKc8ty2gquO7BzY9J10eqvTgjUtNDmAk">SDM 23</a>), 
-      hyper-graph (<a href="https://arxiv.org/abs/2510.10402">ICDM 25</a>).
+      <strong>AI for Scientific Discovery:</strong> 
+      drug discovery, AI scientist, deep research, protein, molecule, social science, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2602.12373">Policy4OOD</a>, <a href="https://aclanthology.org/2025.acl-long.296/">NGQA</a>).
     </li>
-    
-    <li><strong>AI for Science and Social Good:</strong> drug discovery (<a href="https://arxiv.org/abs/2510.10402">WWW 26</a>), research (<a href="https://arxiv.org/abs/2509.19580">Survey</a>), drug trafficking detection (<a href="https://arxiv.org/abs/2503.01900">ACL 25</a>).</li>
   </ul>
 
   <p>

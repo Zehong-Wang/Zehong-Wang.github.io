@@ -24,9 +24,8 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at <a href="https://www.nd.edu/">University of Notre Dame</a> advised by <a href="http://yes-lab.org/">Prof. Yanfang (Fanny) Ye</a>. 
-    My research centers on AI, machine learning, data science, and their applications to both societal challenges and scientific discovery. 
-    I apply these advances across multiple domains, including healthcare, information systems, and biology. 
-    Recently, I have focused on developing scientific foundation models and agents to facilitate scientific discovery, with a particular emphasis on drug discovery and AI scientists.
+    My research centers on designing generalizable and transferable AI systems that bridge diverse data modalities for scientific discovery and societal challenges.
+    Recently, I have focused on developing scientific foundation models and agents, particularly on building AI scientists for drug discovery and public health. 
   </p>
   <ul>
     <li>
@@ -43,7 +42,7 @@ short_bio: >-
         
     <li>
       <strong>AI for Scientific Discovery:</strong> 
-      drug discovery, AI scientist, deep research, protein, molecule, social science, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2602.12373">Policy4OOD</a>, <a href="https://aclanthology.org/2025.acl-long.296/">NGQA</a>).
+      drug discovery, AI scientist, public health, deep research, social science, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2602.12373">Policy4OOD</a>, <a href="https://aclanthology.org/2025.acl-long.296/">NGQA</a>).
     </li>
   </ul>
 

@@ -23,9 +23,9 @@ orcid: 0000-0002-7670-6777
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at <a href="https://www.nd.edu/">University of Notre Dame</a> advised by <a href="http://yes-lab.org/">Prof. Yanfang (Fanny) Ye</a>. 
-    My research centers on designing generalizable and trustworthy AI systems that bridge diverse data modalities for scientific discovery.
-    Recently, I have focused on developing scientific foundation models and agents, particularly on building AI scientists for drug discovery and public health. 
+    I am a third year Ph.D. student (2023 Fall - Present) in Computer Science and Engineering at <a href="https://www.nd.edu/">University of Notre Dame</a> advised by <a href="http://yes-lab.org/">Prof. Yanfang (Fanny) Ye</a>.  
+    My research focuses on developing generalizable AI systems that integrate multimodal data for scientific discovery. 
+    Recently, I have been working on scientific foundation models and AI agents, with the goal of building AI scientists for drug discovery and public health.
   </p>
   <ul>
     <li>

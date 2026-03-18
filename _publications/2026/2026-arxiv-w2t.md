@@ -16,4 +16,5 @@ authors:
   - <b>Zehong Wang</b>#
 links:
   Paper: https://arxiv.org/abs/2603.15990
+  Code: https://github.com/xiaolonghan2000/Weight2Token
 ---

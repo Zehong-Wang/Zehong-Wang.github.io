@@ -2,7 +2,7 @@
 title:          "Controllable Graph Generation with Diffusion Models via Inference-Time Tree Search Guidance"
 date:           2026-01-13 00:01:00 +0800
 selected:       true
-pub:            "The Web Conference (WWW)"
+pub:            "The Web Conference (WWW) (Oral)"
 pub_date:       "2026"
 # tldr: >-
 #   We propose TreeDiff, a controllable graph generation method using diffusion models guided by inference-time tree search.

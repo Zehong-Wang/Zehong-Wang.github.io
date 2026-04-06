@@ -1,6 +1,6 @@
 ---
 title:          "AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering"
-date:           2025-10-01 00:01:00 +0800
+date:           2026-04-06 00:01:00 +0800
 selected:       false
 pub:            "ACL"
 pub_date:       "2026"

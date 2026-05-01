@@ -1,9 +1,8 @@
 ---
 title:          "Graph is a Substrate Across Data Modalities"
-date:           2026-01-29 00:01:00 +0800
+date:           2026-05-01 00:01:00 +0800
 selected:       false
-type:           preprint
-pub:            "arXiv preprint"
+pub:            "ICML"
 pub_date:       "2026"
 # tldr: >-
 #   We propose G-Substrate, a framework that leverages graph structures as a unified substrate across different data modalities.

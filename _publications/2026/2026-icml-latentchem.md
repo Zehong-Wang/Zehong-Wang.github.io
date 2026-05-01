@@ -2,7 +2,7 @@
 title:          "LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning"
 date:           2026-05-01 00:01:00 +0800
 selected:       false
-pub:            "ICML"
+pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2026"
 cover:          /assets/images/covers/2026-arxiv-latentchem.png
 authors:

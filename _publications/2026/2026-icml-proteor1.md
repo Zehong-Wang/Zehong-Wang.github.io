@@ -4,6 +4,7 @@ date:           2026-05-01 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2026"
+cover:          /assets/images/covers/2026-icml-proteor1.png
 authors:
   - Fang Wu
   - Weihao Xuan

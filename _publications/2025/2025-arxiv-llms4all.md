@@ -1,7 +1,7 @@
 ---
 title:          "LLMs4All: A Review on Large Language Models for Research and Applications in Academic Disciplines"
 date:           2025-09-15 00:01:00 +0800
-selected:       true
+selected:       false
 type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2025"

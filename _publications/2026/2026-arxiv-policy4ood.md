@@ -1,7 +1,7 @@
 ---
 title:          "Policy4OOD: A Knowledge-Guided World Model for Policy Intervention Simulation against the Opioid Overdose Crisis"
 date:           2026-02-12 00:01:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

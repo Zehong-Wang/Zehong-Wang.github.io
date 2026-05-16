@@ -10,6 +10,10 @@ body_attr: >-
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 {% assign preprints = site.publications | sort: "date" | reverse | where: "type", "preprint" %}
 {% assign has_preprints = preprints | size %}
+{% assign surveys = site.publications | sort: "date" | reverse | where: "type", "survey" %}
+{% assign tutorials = site.publications | sort: "date" | reverse | where: "type", "tutorial" %}
+{% assign surveys = surveys | concat: tutorials %}
+{% assign has_surveys = surveys | size %}
 
 <div class="row">
     <div class="col-12 col-lg-10">
@@ -22,10 +26,19 @@ body_attr: >-
         </div>
         {% endif %}
 
+        {% if has_surveys > 0 %}
+        <h2 class="pt-4" id="surveys"><i></i> Surveys</h2>
+        <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
+            {% for item in surveys %}
+                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+            {% endfor %}
+        </div>
+        {% endif %}
+
         {% for year in pubs_by_year %}
         {% assign year_items = "" | split: "" %}
         {% for item in year.items %}
-            {% unless item.type == "preprint" %}
+            {% unless item.type == "preprint" or item.type == "survey" or item.type == "tutorial" %}
                 {% assign year_items = year_items | push: item %}
             {% endunless %}
         {% endfor %}
@@ -45,6 +58,9 @@ body_attr: >-
         <div id="navbar-year" class="nav nav-pills flex-column sticky-top" style="top: 80px">
             {% if has_preprints > 0 %}
             <a class="nav-link d-block" href="#preprints">Preprints</a>
+            {% endif %}
+            {% if has_surveys > 0 %}
+            <a class="nav-link d-block" href="#surveys">Surveys</a>
             {% endif %}
             {% for year in pubs_by_year %}
             <a class="nav-link d-block" href="#year-{{ year.name }}">{{ year.name }}</a>

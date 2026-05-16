@@ -1,7 +1,7 @@
 ---
 title:          "Heterogeneous Graph Contrastive Multi-View Learning"
 date:           2023-01-15 00:01:00 +0800
-selected:       true
+selected:       false
 pub:            "SIAM International Conference on Data Mining (SDM)"
 pub_date:       "2023"
 # tldr: >-

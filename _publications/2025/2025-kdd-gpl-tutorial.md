@@ -1,7 +1,7 @@
 ---
 title:          "Graph Prompting for Graph Learning Models: Recent Advances and Future Directions"
 date:           2025-05-15 00:02:00 +0800
-selected:       true
+selected:       false
 type:           tutorial
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2025"

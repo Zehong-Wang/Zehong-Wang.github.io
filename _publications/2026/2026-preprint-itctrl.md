@@ -2,7 +2,7 @@
 title:          "Inference-Time Control for Trustworthy Large Language Models"
 date:           2026-05-01 00:01:00 +0800
 selected:       false
-type:           preprint
+type:           survey
 pub:            "Preprints.org"
 pub_date:       "2026"
 cover:          /assets/images/covers/2026-preprint-itctrl.png

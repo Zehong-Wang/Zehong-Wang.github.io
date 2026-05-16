@@ -1,7 +1,7 @@
 ---
 title:          "W2T: LoRA Weights Already Know What They Can Do"
 date:           2026-03-16 00:01:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

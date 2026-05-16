@@ -4,6 +4,8 @@ date:           2024-05-15 00:01:00 +0800
 selected:       true
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2024"
+topics:
+  - public-health
 # tldr: >-
 #   We develop Diet-ODIN, a framework for opioid misuse detection using interpretable dietary patterns.
 # abstract: >-

@@ -4,6 +4,8 @@ date:           2026-05-01 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2026"
+topics:
+  - multi-modality
 # tldr: >-
 #   We propose G-Substrate, a framework that leverages graph structures as a unified substrate across different data modalities.
 # abstract: >-

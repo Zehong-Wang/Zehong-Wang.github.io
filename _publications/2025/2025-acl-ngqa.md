@@ -4,6 +4,8 @@ date:           2025-05-10 00:01:00 +0800
 selected:       false
 pub:            "Annual Meeting of the Association for Computational Linguistics (ACL)"
 pub_date:       "2025"
+topics:
+  - reasoning
 # # tldr: >-
 #   We introduce NGQA, a benchmark for nutritional graph question answering with personalized health-aware reasoning.
 # # abstract: >-

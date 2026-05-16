@@ -4,6 +4,8 @@ date:           2024-06-15 00:01:00 +0800
 selected:       false
 pub:            "IEEE Transactions on Neural Networks and Learning Systems (TNNLS)"
 pub_date:       "2024"
+topics:
+  - self-supervised-learning
 # tldr: >-
 #   We propose a self-supervised graph contrastive learning method with adaptive positive sampling.
 # # abstract: >-

@@ -5,6 +5,9 @@ selected:       false
 type:           survey
 pub:            "Preprints.org"
 pub_date:       "2026"
+topics:
+  - trustworthy-ai
+  - surveys-and-tutorials
 cover:          /assets/images/covers/2026-preprint-itctrl.png
 authors:
   - Yuyang Bai*

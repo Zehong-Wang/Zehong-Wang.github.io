@@ -5,6 +5,8 @@ selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2025"
+topics:
+  - multi-modality
 # tldr: >-
 #   We propose a semantic refinement approach using LLMs to enhance graph representations with richer semantic information.
 # abstract: >-

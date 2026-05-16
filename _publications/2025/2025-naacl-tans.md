@@ -4,6 +4,8 @@ date:           2025-01-15 00:01:00 +0800
 selected:       false
 pub:            "Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL)"
 pub_date:       "2025"
+topics:
+  - multi-modality
 # tldr: >-
 #   We develop TANS to synthesize textual node descriptions on graphs using large language models.
 # # abstract: >-

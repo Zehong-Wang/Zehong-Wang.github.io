@@ -4,6 +4,8 @@ date:           2025-08-15 00:01:00 +0800
 selected:       false
 pub:            "IEEE International Conference on Data Mining (ICDM)"
 pub_date:       "2025"
+topics:
+  - self-supervised-learning
 pub_last:       ' <span class="badge badge-pill badge-publication badge-danger">Best Paper Award Candidate</span>'
 # tldr: >-
 #   We propose an adaptive broadcasting and receiving mechanism for hypergraph representation learning.

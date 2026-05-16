@@ -5,6 +5,8 @@ selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
+topics:
+  - self-supervised-learning
 cover:          /assets/images/covers/2026-arxiv-bhygnn.png
 authors:
   - Tianyi Ma

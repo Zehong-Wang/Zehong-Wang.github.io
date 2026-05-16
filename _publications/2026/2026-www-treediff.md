@@ -4,6 +4,8 @@ date:           2026-01-13 00:01:00 +0800
 selected:       true
 pub:            "The Web Conference (WWW) (Oral)"
 pub_date:       "2026"
+topics:
+  - drug-discovery
 # tldr: >-
 #   We propose TreeDiff, a controllable graph generation method using diffusion models guided by inference-time tree search.
 # # abstract: >-

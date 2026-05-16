@@ -5,6 +5,9 @@ selected:       true
 type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2025"
+topics:
+  - foundation-model
+  - surveys-and-tutorials
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'
 # tldr: >-
 #   A comprehensive survey on graph foundation models covering architectures, training methods, and applications.

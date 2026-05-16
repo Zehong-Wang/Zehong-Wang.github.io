@@ -4,6 +4,8 @@ date:           2025-05-20 00:02:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2025"
+topics:
+  - graph-pattern-machine
 # tldr: >-
 #   We develop GPM, a novel Transformer-based graph representation learning framework that goes beyond message passing.
 # # abstract: >-

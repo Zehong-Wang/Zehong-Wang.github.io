@@ -5,6 +5,8 @@ selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
+topics:
+  - trustworthy-ai
 cover:          /assets/images/covers/2026-arxiv-graphsafety.png
 authors:
   - Xiaoguang Guo

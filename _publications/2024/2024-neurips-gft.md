@@ -4,6 +4,8 @@ date:           2024-09-15 00:01:00 +0800
 selected:       true
 pub:            "Annual Conference on Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2024"
+topics:
+  - foundation-model
 # # tldr: >-
 #   We develop GFT, a transferable cross-domain cross-task graph foundation model with tree vocabulary.
 # # abstract: >-

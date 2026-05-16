@@ -4,6 +4,8 @@ date:           2025-05-20 00:01:00 +0800
 selected:       true
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2025"
+topics:
+  - foundation-model
 # tldr: >-
 #   We develop GIT, a theory-guided task alignment framework for graph foundation models using task-trees.
 # # abstract: >-

@@ -4,6 +4,8 @@ date:           2026-01-04 00:01:00 +0800
 selected:       false
 pub:            "Conference of the European Chapter of the Association for Computational Linguistics (EACL)"
 pub_date:       "2026"
+topics:
+  - multi-modality
 # tldr: >-
 #   We develop an interpretable graph-language model (LAMI) for detecting youth illicit drug use from social media.
 # # abstract: >-

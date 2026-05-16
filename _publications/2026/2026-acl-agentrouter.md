@@ -4,6 +4,8 @@ date:           2026-04-06 00:01:00 +0800
 selected:       false
 pub:            "Annual Meeting of the Association for Computational Linguistics (ACL)"
 pub_date:       "2026"
+topics:
+  - ai-agent
 # tldr: >-
 #   We propose AgentRouter, a knowledge-graph-guided routing mechanism for collaborative multi-agent question answering.
 # # abstract: >-

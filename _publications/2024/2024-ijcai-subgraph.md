@@ -4,6 +4,8 @@ date:           2024-04-15 00:01:00 +0800
 selected:       false
 pub:            "International Joint Conference on Artificial Intelligence (IJCAI)"
 pub_date:       "2024"
+topics:
+  - foundation-model
 # tldr: >-
 #   We propose subgraph pooling to tackle negative transfer in graph learning by analyzing structural differences.
 # abstract: >-

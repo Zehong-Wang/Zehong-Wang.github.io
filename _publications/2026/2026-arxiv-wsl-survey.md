@@ -5,6 +5,9 @@ selected:       true
 type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2026"
+topics:
+  - weight-space-learning
+  - surveys-and-tutorials
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'
 cover:          /assets/images/covers/2026-arxiv-wsl-survey.png
 authors:

@@ -5,6 +5,9 @@ selected:       false
 type:           tutorial
 pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2025"
+topics:
+  - foundation-model
+  - surveys-and-tutorials
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Tutorial</span>'
 # tldr: >-
 #   A tutorial on graph prompting techniques covering recent advances and future research directions.

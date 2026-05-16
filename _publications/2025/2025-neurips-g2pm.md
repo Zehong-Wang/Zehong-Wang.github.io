@@ -7,6 +7,8 @@ pub:            "Annual Conference on Neural Information Processing Systems (Neu
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2025"
+topics:
+  - graph-pattern-machine
 # semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 # tldr: >-
 #   We propose a novel graph pre-training method using generative pattern-based learning.

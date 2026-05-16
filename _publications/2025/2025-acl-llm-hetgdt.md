@@ -4,6 +4,8 @@ date:           2025-05-10 00:02:00 +0800
 selected:       false
 pub:            "Annual Meeting of the Association for Computational Linguistics (ACL)"
 pub_date:       "2025"
+topics:
+  - public-health
 # tldr: >-
 #   We develop LLM-HetGDT, using LLMs for class imbalanced graph prompt learning to detect online drug trafficking.
 # # abstract: >-

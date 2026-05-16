@@ -4,6 +4,8 @@ date:           2025-09-20 00:02:00 +0800
 selected:       false
 pub:            "Annual Conference on Neural Information Processing Systems (NeurIPS)"
 pub_date:       "2025"
+topics:
+  - ai-agent
 # tldr: >-
 #   We develop AutoData, a hypergraph-based multi-agent system for automatic web data collection.
 # # abstract: >-

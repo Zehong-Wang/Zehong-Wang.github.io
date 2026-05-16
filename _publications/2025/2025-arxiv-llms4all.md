@@ -5,6 +5,9 @@ selected:       false
 type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2025"
+topics:
+  - ai-agent
+  - surveys-and-tutorials
 pub_last:       ' <span class="badge badge-pill badge-publication badge-primary">Survey</span>'
 # tldr: >-
 #   A comprehensive review of large language models for cross-disciplinary research and applications across academic fields.

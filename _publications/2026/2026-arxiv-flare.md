@@ -5,6 +5,8 @@ selected:       true
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
+topics:
+  - reasoning
 # tldr: >-
 #   We introduce LongDA, a comprehensive benchmark for evaluating LLM agents on long-document data analysis tasks.
 # abstract: >-

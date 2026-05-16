@@ -5,6 +5,8 @@ selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
+topics:
+  - public-health
 cover:          /assets/images/covers/2026-arxiv-opbench.png
 authors:
   - Tianyi Ma

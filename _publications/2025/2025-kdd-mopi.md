@@ -4,6 +4,8 @@ date:           2025-03-15 00:01:00 +0800
 selected:       false
 pub:            "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2025"
+topics:
+  - public-health
 # tldr: >-
 #   We develop MOPI-HFRS, a multi-objective personalized food recommendation system with LLM-enhanced interpretation.
 # # abstract: >-

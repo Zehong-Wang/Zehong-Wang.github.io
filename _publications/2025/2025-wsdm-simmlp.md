@@ -4,6 +4,8 @@ date:           2025-3-15 00:01:00 +0800
 selected:       false
 pub:            "ACM International Conference on Web Search and Data Mining (WSDM)"
 pub_date:       "2025"
+topics:
+  - self-supervised-learning
 # tldr: >-
 #   We develop SimMLP, an efficient inference method for training MLPs on graphs without supervision.
 # # abstract: >-

@@ -4,6 +4,8 @@ date:           2026-05-01 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Machine Learning (ICML)"
 pub_date:       "2026"
+topics:
+  - drug-discovery
 cover:          /assets/images/covers/2026-arxiv-latentchem.png
 authors:
   - Xinwu Ye

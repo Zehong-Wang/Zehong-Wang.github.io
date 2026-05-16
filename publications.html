@@ -17,21 +17,44 @@ body_attr: >-
 
 <div class="row">
     <div class="col-12 col-lg-10">
+        <div class="topic-filter-bar">
+            <button type="button" class="topic-chip active" data-topic="all">All</button>
+            <button type="button" class="topic-chip" data-topic="surveys-and-tutorials">Surveys & Tutorials</button>
+            <button type="button" class="topic-chip" data-topic="graph-pattern-machine">Graph Pattern Machine</button>
+            <button type="button" class="topic-chip" data-topic="foundation-model">Foundation Model</button>
+            <button type="button" class="topic-chip" data-topic="ai-agent">AI Agent</button>
+            <button type="button" class="topic-chip" data-topic="reasoning">Reasoning</button>
+            <button type="button" class="topic-chip" data-topic="drug-discovery">Drug Discovery</button>
+            <button type="button" class="topic-chip" data-topic="public-health">Public Health</button>
+            <button type="button" class="topic-chip" data-topic="multi-modality">Multi-Modality</button>
+            <button type="button" class="topic-chip" data-topic="weight-space-learning">Weight-Space Learning</button>
+            <button type="button" class="topic-chip" data-topic="trustworthy-ai">Trustworthy AI</button>
+            <button type="button" class="topic-chip" data-topic="self-supervised-learning">Self-Supervised Learning</button>
+        </div>
+
         {% if has_preprints > 0 %}
+        <div class="pub-section-block" data-section-id="preprints">
         <h2 class="pt-4" id="preprints"><i></i> Preprints</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
             {% for item in preprints %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                <div class="pub-wrapper" data-topics="{{ item.topics | join: ' ' }}">
+                    {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                </div>
             {% endfor %}
+        </div>
         </div>
         {% endif %}
 
         {% if has_surveys > 0 %}
+        <div class="pub-section-block" data-section-id="surveys">
         <h2 class="pt-4" id="surveys"><i></i> Surveys</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
             {% for item in surveys %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                <div class="pub-wrapper" data-topics="{{ item.topics | join: ' ' }}">
+                    {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                </div>
             {% endfor %}
+        </div>
         </div>
         {% endif %}
 
@@ -44,11 +67,15 @@ body_attr: >-
         {% endfor %}
         {% assign num_papers = year_items | size %}
         {% if num_papers > 0 %}
+        <div class="pub-section-block" data-section-id="year-{{ year.name }}">
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
         <div class="my-0 p-0 bg-white shadow-sm rounded-xl">
             {% for item in year_items %}
-                {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                <div class="pub-wrapper" data-topics="{{ item.topics | join: ' ' }}">
+                    {% include widgets/publication_item.html item=item hide_bottom_border=forloop.last first=forloop.first last=forloop.last %}
+                </div>
             {% endfor %}
+        </div>
         </div>
         {% endif %}
         {% endfor %}

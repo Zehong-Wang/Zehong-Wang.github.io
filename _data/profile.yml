@@ -28,17 +28,16 @@ short_bio: >-
     Recently, I have been working on scientific foundation models and AI agents, with the goal of building AI scientists for drug discovery and public health.
   </p>
   <ul>
-    <li>
-      <strong>Essence of Agentic AI:</strong>
-      planning, memory, multimodality, RAG, tool usage, agent collaboration, self-evolving, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.02598">LongDA</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>, <a href="https://arxiv.org/abs/2510.15961">LAMI</a>, <a href="https://arxiv.org/abs/2601.22384">GSubstrate</a>).
-    </li>
-
 
     <li>
       <strong>Essence of Graph Learning:</strong>
       graph foundation model, graph pattern machine, self-supervised learning, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2412.16441">GIT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>).
     </li>
-    
+
+    <li>
+      <strong>Essence of Agentic AI:</strong>
+      planning, memory, multimodality, RAG, tool usage, agent collaboration, self-evolving, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.02598">LongDA</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>, <a href="https://arxiv.org/abs/2510.15961">LAMI</a>, <a href="https://arxiv.org/abs/2601.22384">GSubstrate</a>).
+    </li>
         
     <li>
       <strong>AI for Scientific Discovery:</strong> 

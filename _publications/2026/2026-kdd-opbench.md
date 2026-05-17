@@ -1,9 +1,8 @@
 ---
 title:          "OPBench: A Graph Benchmark to Combat the Opioid Crisis"
-date:           2026-02-16 00:01:00 +0800
+date:           2026-05-15 00:02:00 +0800
 selected:       false
-type:           preprint
-pub:            "arXiv preprint"
+pub:            "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)"
 pub_date:       "2026"
 topics:
   - public-health

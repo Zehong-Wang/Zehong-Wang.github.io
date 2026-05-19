@@ -31,7 +31,7 @@ short_bio: >-
 
     <li>
       <strong>Essence of Graph Learning:</strong>
-      graph foundation model, graph pattern machine, self-supervised learning, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2412.16441">GIT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>).
+      graph foundation model, graph pattern machine, self-supervised learning, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>, <a href="https://arxiv.org/abs/2605.16527">HyPM</a>).
     </li>
 
     <li>

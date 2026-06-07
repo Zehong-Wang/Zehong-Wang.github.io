@@ -30,18 +30,18 @@ short_bio: >-
   <ul>
 
     <li>
-      <strong>Essence of Graph Learning:</strong>
-      graph foundation model, graph pattern machine, self-supervised learning, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>, <a href="https://arxiv.org/abs/2605.16527">HGPM</a>).
+      <strong>Graph Learning:</strong>
+      graph foundation model, graph pattern machine, graph generation, heterogeneous graph, temporal graph, hypergraph, etc. (<a href="https://arxiv.org/abs/2505.15116">Survey</a>, <a href="https://arxiv.org/abs/2411.06070">GFT</a>, <a href="https://arxiv.org/abs/2501.18739">GPM</a>, <a href="https://openreview.net/forum?id=tdMWo3jB21">G2PM</a>, <a href="https://arxiv.org/abs/2601.22454">TGPM</a>, <a href="https://arxiv.org/abs/2605.16527">HGPM</a>).
     </li>
 
     <li>
-      <strong>Essence of Agentic AI:</strong>
-      planning, memory, multimodality, RAG, tool usage, agent collaboration, self-evolving, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.02598">LongDA</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>, <a href="https://arxiv.org/abs/2510.15961">LAMI</a>, <a href="https://arxiv.org/abs/2601.22384">GSubstrate</a>).
+      <strong>Agentic AI:</strong>
+      self-evolving, memory, long-horizon planning, world model, multi-agent system, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.22384">G-Substrate</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>).
     </li>
         
     <li>
-      <strong>AI for Scientific Discovery:</strong> 
-      drug discovery, AI scientist, public health, deep research, social science, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2602.12373">Policy4OOD</a>, <a href="https://aclanthology.org/2025.acl-long.296/">NGQA</a>).
+      <strong>AI for Science:</strong> 
+      ai scientist, molecular dynamics, scientific reasoning, de novo design, virtual cell, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2605.02937">Proteo-R1</a>).
     </li>
   </ul>
 

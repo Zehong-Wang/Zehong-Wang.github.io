@@ -5,6 +5,7 @@ selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"
+cover:          /assets/images/covers/2026-arxiv-suprabench.png
 topics:
   - drug-discovery
 authors:

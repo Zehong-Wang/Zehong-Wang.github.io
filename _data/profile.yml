@@ -36,12 +36,12 @@ short_bio: >-
 
     <li>
       <strong>Agentic AI:</strong>
-      self-evolving, memory, long-horizon planning, world model, multi-agent system, etc. (<a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.22384">G-Substrate</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>).
+      self-evolving, memory, long-horizon planning, world model, multi-agent system, etc. (<a href="https://arxiv.org/abs/2606.12780">ProPlay</a>, <a href="https://arxiv.org/abs/2601.22311">FLARE</a>, <a href="https://arxiv.org/abs/2601.22384">G-Substrate</a>, <a href="https://arxiv.org/abs/2505.15859">AutoData</a>, <a href="https://arxiv.org/abs/2510.05445">AgentRouter</a>).
     </li>
         
     <li>
       <strong>AI for Science:</strong> 
-      ai scientist, molecular dynamics, scientific reasoning, de novo design, virtual cell, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2605.02937">Proteo-R1</a>).
+      ai scientist, molecular dynamics, scientific reasoning, de novo design, virtual cell, etc. (<a href="https://arxiv.org/abs/2509.19580">Survey</a>, <a href="https://arxiv.org/abs/2606.12916">MDForge</a>, <a href="https://arxiv.org/abs/2510.10402">TreeDiff</a>, <a href="https://arxiv.org/abs/2601.22327">MolField</a>, <a href="https://arxiv.org/abs/2602.07075">LatentChem</a>, <a href="https://arxiv.org/abs/2605.02937">Proteo-R1</a>).
     </li>
   </ul>
 

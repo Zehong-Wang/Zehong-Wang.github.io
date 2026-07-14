@@ -66,6 +66,10 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 experience:
+- name: Google
+  logo: /assets/images/badges/google_logo.png
+  position: Research Intern
+  date: May. 2026 - Aug. 2026
 - name: Amazon
   logo: /assets/images/badges/amazon_logo.jpg
   position: Applied Scientist Intern (Part-Time)

@@ -1,7 +1,7 @@
 ---
 title:          "The Collaboration Tax: How Much LLM Multi-Agent Systems Pay to Coordinate"
 date:           2026-08-20 00:03:00 +0800
-selected:       true
+selected:       false
 pub:            "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 pub_date:       "2026"
 cover:          /assets/images/covers/2026-emnlp-collabtax.png

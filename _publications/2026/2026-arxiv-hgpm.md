@@ -1,7 +1,7 @@
 ---
 title:          "Hypergraph Pattern Machine: Compositional Tokenization for Higher-Order Interactions"
 date:           2026-05-15 00:01:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

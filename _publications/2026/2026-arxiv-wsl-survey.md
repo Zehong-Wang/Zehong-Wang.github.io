@@ -1,7 +1,7 @@
 ---
 title:          "A Survey of Weight Space Learning: Understanding, Representation, and Generation"
 date:           2026-03-10 00:01:00 +0800
-selected:       true
+selected:       false
 type:           survey
 pub:            "arXiv preprint"
 pub_date:       "2026"

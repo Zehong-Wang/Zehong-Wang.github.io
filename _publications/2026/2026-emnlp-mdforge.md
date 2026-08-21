@@ -1,9 +1,8 @@
 ---
 title:          "MDForge: Agentic Molecular Dynamics Pipeline Design under Sparse Simulator Feedback"
-date:           2026-06-11 00:03:00 +0800
+date:           2026-08-20 00:02:00 +0800
 selected:       true
-type:           preprint
-pub:            "arXiv preprint"
+pub:            "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 pub_date:       "2026"
 cover:          /assets/images/covers/2026-arxiv-mdforge.png
 topics:

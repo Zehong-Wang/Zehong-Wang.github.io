@@ -1,7 +1,7 @@
 ---
 title:          "ProPlay: Procedural World Models for Self-Evolving LLM Agents"
 date:           2026-06-11 00:02:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

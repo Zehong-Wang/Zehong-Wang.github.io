@@ -1,7 +1,7 @@
 ---
 title:          "W2T: LoRA Weights Already Know What They Can Do"
 date:           2026-08-20 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "Conference on Empirical Methods in Natural Language Processing (EMNLP)"
 pub_date:       "2026"
 topics:

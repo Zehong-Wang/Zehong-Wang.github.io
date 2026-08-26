@@ -15,6 +15,6 @@ authors:
   - Yijun Ma
   - Yanfang Ye
 links:
-  Paper:
-  Code:
+  Paper: https://arxiv.org/abs/2608.22152
+  Code: https://github.com/Weixiang-Sun/collaboration-tax
 ---

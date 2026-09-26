@@ -1,9 +1,8 @@
 ---
 title:          "LongDA: Benchmarking LLM Agents for Long-Document Data Analysis"
-date:           2026-01-05 00:01:00 +0800
+date:           2026-09-26 00:01:00 +0800
 selected:       false
-type:           preprint
-pub:            "arXiv preprint"
+pub:            "DocInsights @ EMNLP Workshop"
 pub_date:       "2026"
 topics:
   - ai-agent

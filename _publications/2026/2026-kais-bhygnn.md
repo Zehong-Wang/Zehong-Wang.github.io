@@ -1,9 +1,8 @@
 ---
 title:          "BHyGNN+: Unsupervised Representation Learning for Heterophilic Hypergraphs"
-date:           2026-02-16 00:01:00 +0800
+date:           2026-09-26 00:02:00 +0800
 selected:       false
-type:           preprint
-pub:            "arXiv preprint"
+pub:            "Knowledge and Information Systems (KAIS)"
 pub_date:       "2026"
 topics:
   - self-supervised-learning

@@ -1,7 +1,7 @@
 ---
 title:          "Temporal Graph Pattern Machine"
 date:           2026-01-29 00:03:00 +0800
-selected:       false
+selected:       true
 pub:            "GFM @ ICML Workshop (Oral)"
 pub_date:       "2026"
 topics:

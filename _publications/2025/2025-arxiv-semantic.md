@@ -1,7 +1,7 @@
 ---
 title:          "Semantic Refinement with LLMs for Graph Representations"
 date:           2025-12-20 00:01:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2025"

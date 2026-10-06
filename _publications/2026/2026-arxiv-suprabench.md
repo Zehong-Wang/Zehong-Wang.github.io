@@ -1,7 +1,7 @@
 ---
 title:          "SupraBench: A Benchmark for Supramolecular Chemistry"
 date:           2026-06-11 00:01:00 +0800
-selected:       true
+selected:       false
 type:           preprint
 pub:            "arXiv preprint"
 pub_date:       "2026"

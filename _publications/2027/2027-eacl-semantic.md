@@ -1,10 +1,9 @@
 ---
 title:          "Semantic Refinement with LLMs for Graph Representations"
-date:           2025-12-20 00:01:00 +0800
+date:           2026-11-12 00:01:00 +0800
 selected:       false
-type:           preprint
-pub:            "arXiv preprint"
-pub_date:       "2025"
+pub:            "Conference of the European Chapter of the Association for Computational Linguistics (EACL)"
+pub_date:       "2027"
 topics:
   - multi-modality
 # tldr: >-
